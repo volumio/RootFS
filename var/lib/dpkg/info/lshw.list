@@ -1,0 +1,15 @@
+/.
+/usr
+/usr/bin
+/usr/bin/lshw
+/usr/share
+/usr/share/locale
+/usr/share/locale/fr
+/usr/share/locale/fr/LC_MESSAGES
+/usr/share/locale/fr/LC_MESSAGES/lshw.mo
+/usr/share/doc/lshw
+/usr/share/doc/lshw/changelog.Debian.gz
+/usr/share/doc/lshw/copyright
+/usr/share/man
+/usr/share/man/man1
+/usr/share/man/man1/lshw.1.gz

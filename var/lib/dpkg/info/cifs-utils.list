@@ -1,0 +1,4 @@
+/etc
+/etc/request-key.d
+/etc/request-key.d/cifs.spnego.conf
+/etc/request-key.d/cifs.idmap.conf

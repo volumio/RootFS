@@ -1,0 +1,10 @@
+/.
+/lib
+/lib/arm-linux-gnueabihf
+/lib/arm-linux-gnueabihf/libsystemd-login.so.0.2.1
+/usr
+/usr/share
+/usr/share/doc/libsystemd-login0
+/usr/share/doc/libsystemd-login0/changelog.Debian.gz
+/usr/share/doc/libsystemd-login0/copyright
+/lib/arm-linux-gnueabihf/libsystemd-login.so.0

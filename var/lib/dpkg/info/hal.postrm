@@ -1,0 +1,28 @@
+#!/bin/sh
+
+set -e
+
+
+
+if [ "$1" = "purge" ] ; then
+	# Tell dbus to reload it's configuration files only, when we purge the
+	# package, i.e. when we remove its conffiles in /etc/dbus-1/system.d/
+  	if [ -x /etc/init.d/dbus ]; then
+		invoke-rc.d dbus force-reload || true
+  	fi
+
+	if [ -x "$(command -v deluser)" ]; then
+        	deluser --quiet --system haldaemon > /dev/null || true
+	else
+		echo >&2 "Not removing haldaemon system account because deluser command was not found"
+	fi
+	if [ -d /var/cache/hald ]; then
+		rm -f /var/cache/hald/fdi-cache
+		rmdir /var/cache/hald || true
+	fi
+
+	if [ -d /var/run/hald ]; then
+		rm -f /var/run/hald/acl-list
+		rmdir /var/run/hald || true
+	fi
+fi

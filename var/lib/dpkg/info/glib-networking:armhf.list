@@ -1,0 +1,15 @@
+/.
+/usr
+/usr/lib
+/usr/lib/arm-linux-gnueabihf
+/usr/lib/arm-linux-gnueabihf/gio
+/usr/lib/arm-linux-gnueabihf/gio/modules
+/usr/lib/arm-linux-gnueabihf/gio/modules/libgiolibproxy.so
+/usr/lib/arm-linux-gnueabihf/gio/modules/libgiognutls.so
+/usr/lib/arm-linux-gnueabihf/gio/modules/libgiognomeproxy.so
+/usr/share
+/usr/share/doc/glib-networking
+/usr/share/doc/glib-networking/README
+/usr/share/doc/glib-networking/NEWS.gz
+/usr/share/doc/glib-networking/changelog.Debian.gz
+/usr/share/doc/glib-networking/copyright

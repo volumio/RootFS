@@ -1,0 +1,15 @@
+/etc
+/etc/logrotate.d
+/etc/logrotate.d/consolekit
+/etc/ConsoleKit
+/etc/ConsoleKit/seats.d
+/etc/ConsoleKit/seats.d/00-primary.seat
+/etc/X11
+/etc/X11/Xsession.d
+/etc/X11/Xsession.d/90consolekit
+/etc/dbus-1
+/etc/dbus-1/system.d
+/etc/dbus-1/system.d/ConsoleKit.conf
+/var
+/var/log
+/var/log/ConsoleKit

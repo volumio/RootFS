@@ -1,0 +1,8 @@
+/etc
+/etc/dbus-1
+/etc/dbus-1/system.d
+/etc/dbus-1/system.d/hal.conf
+/etc/hal
+/etc/hal/fdi
+/etc/hal/fdi/policy
+/etc/hal/fdi/policy/preferences.fdi

@@ -1,0 +1,4 @@
+503262e6232e30574c85f525c795bebb  usr/lib/php5/20100525+lfs/pdo_sqlite.so
+1c7306efc74be225acc2f0db4993da43  usr/lib/php5/20100525+lfs/sqlite3.so
+296243da028c011bf7a40fe565b08d56  usr/share/php5/sqlite/pdo_sqlite.ini
+1d73904e1491105dbdfe04163ccfd04a  usr/share/php5/sqlite/sqlite3.ini

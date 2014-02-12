@@ -1,0 +1,6 @@
+?package(heirloom-mailx):\
+  needs="text"\
+  section="Applications/Network/Communication"\
+  title="heirloom-mailx"\
+  command="/usr/bin/heirloom-mailx"\
+  hints="Mail"

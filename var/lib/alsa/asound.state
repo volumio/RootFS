@@ -1,0 +1,237 @@
+state.SPDIF {
+	control.1 {
+		iface PCM
+		name 'IEC958 Playback Default'
+		value '0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'
+		comment {
+			access 'read write'
+			type IEC958
+			count 1
+		}
+	}
+}
+state.DAC {
+	control.1 {
+		iface MIXER
+		name 'PCM Playback Switch'
+		value true
+		comment {
+			access 'read write'
+			type BOOLEAN
+			count 1
+		}
+	}
+	control.2 {
+		iface MIXER
+		name 'PCM Playback Volume'
+		value.0 110
+		value.1 110
+		comment {
+			access 'read write'
+			type INTEGER
+			count 2
+			range '0 - 110'
+			dbmin -5500
+			dbmax 0
+			dbvalue.0 0
+			dbvalue.1 0
+		}
+	}
+}
+state.D20 {
+	control.1 {
+		iface MIXER
+		name 'DIYINHK Clock Selector Playback Switch'
+		value.0 false
+		value.1 false
+		comment {
+			access 'read write'
+			type BOOLEAN
+			count 2
+		}
+	}
+	control.2 {
+		iface MIXER
+		name 'DIYINHK Clock Selector Playback Switch'
+		index 1
+		value false
+		comment {
+			access 'read write'
+			type BOOLEAN
+			count 1
+		}
+	}
+	control.3 {
+		iface MIXER
+		name 'DIYINHK Clock Selector Playback Volume'
+		value.0 39
+		value.1 39
+		comment {
+			access 'read write'
+			type INTEGER
+			count 2
+			range '0 - 127'
+			dbmin -12700
+			dbmax 0
+			dbvalue.0 -8800
+			dbvalue.1 -8800
+		}
+	}
+	control.4 {
+		iface MIXER
+		name 'DIYINHK Clock Selector Playback Volume'
+		index 1
+		value 127
+		comment {
+			access 'read write'
+			type INTEGER
+			count 1
+			range '0 - 127'
+			dbmin -12700
+			dbmax 0
+			dbvalue.0 0
+		}
+	}
+}
+state.vt1613audio {
+	control.1 {
+		iface MIXER
+		name 'Stereo Master Volume'
+		value.0 19
+		value.1 19
+		comment {
+			access 'read write'
+			type INTEGER
+			count 2
+			range '0 - 31'
+			dbmin -4650
+			dbmax 0
+			dbvalue.0 -1800
+			dbvalue.1 -1800
+		}
+	}
+	control.2 {
+		iface MIXER
+		name 'PCM Playback Volume'
+		value.0 23
+		value.1 23
+		comment {
+			access 'read write'
+			type INTEGER
+			count 2
+			range '0 - 31'
+			dbmin -3450
+			dbmax 1200
+			dbvalue.0 0
+			dbvalue.1 0
+		}
+	}
+	control.3 {
+		iface MIXER
+		name 'MIC Recording Volume'
+		value 27
+		comment {
+			access 'read write'
+			type INTEGER
+			count 1
+			range '0 - 31'
+			dbmin -3450
+			dbmax 1200
+			dbvalue.0 600
+		}
+	}
+	control.4 {
+		iface MIXER
+		name 'LINE Recording Volume'
+		value.0 21
+		value.1 21
+		comment {
+			access 'read write'
+			type INTEGER
+			count 2
+			range '0 - 31'
+			dbmin -3450
+			dbmax 1200
+			dbvalue.0 -300
+			dbvalue.1 -300
+		}
+	}
+	control.5 {
+		iface MIXER
+		name 'Mono Master Volume'
+		value 19
+		comment {
+			access 'read write'
+			type INTEGER
+			count 1
+			range '0 - 31'
+			dbmin -4650
+			dbmax 0
+			dbvalue.0 -1800
+		}
+	}
+	control.6 {
+		iface MIXER
+		name 'AUX Recording Volume'
+		value.0 27
+		value.1 27
+		comment {
+			access 'read write'
+			type INTEGER
+			count 2
+			range '0 - 31'
+			dbmin -3450
+			dbmax 1200
+			dbvalue.0 600
+			dbvalue.1 600
+		}
+	}
+	control.7 {
+		iface MIXER
+		name 'Jack Function'
+		value off
+		comment {
+			access 'read write'
+			type ENUMERATED
+			count 1
+			item.0 off
+			item.1 on
+		}
+	}
+	control.8 {
+		iface MIXER
+		name 'Speaker Function'
+		value off
+		comment {
+			access 'read write'
+			type ENUMERATED
+			count 1
+			item.0 off
+			item.1 on
+		}
+	}
+	control.9 {
+		iface MIXER
+		name 'Line In Function'
+		value off
+		comment {
+			access 'read write'
+			type ENUMERATED
+			count 1
+			item.0 off
+			item.1 on
+		}
+	}
+}
+state.imxhdmisoc {
+	control.1 {
+		iface MIXER
+		name 'IEC958 Playback Default'
+		value '0400020200000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'
+		comment {
+			access 'read write'
+			type IEC958
+			count 1
+		}
+	}
+}

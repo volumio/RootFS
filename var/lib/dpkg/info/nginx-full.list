@@ -1,0 +1,10 @@
+/.
+/usr
+/usr/share
+/usr/share/doc/nginx-full
+/usr/share/doc/nginx-full/changelog.gz
+/usr/share/doc/nginx-full/changelog.Debian.gz
+/usr/share/doc/nginx-full/copyright
+/usr/sbin
+/usr/sbin/nginx
+/usr/share/doc/nginx-full/CHANGES.gz

@@ -1,0 +1,25 @@
+#!/bin/sh
+
+set -e
+
+bindir=/usr/bin
+mandir=/usr/share/man/man1
+program=heirloom-mailx
+priority=60
+
+if [ "$1" = "configure" ]; then
+    update-alternatives \
+        --install "$bindir/mailx"      mailx      "$bindir/$program" "$priority" \
+        --slave   "$bindir/mail"       mail       "$bindir/$program"      \
+        --slave   "$bindir/Mail"       Mail       "$bindir/$program"      \
+        --slave   "$mandir/mailx.1.gz" mailx.1.gz "$mandir/$program.1.gz" \
+        --slave   "$mandir/mail.1.gz"  mail.1.gz  "$mandir/$program.1.gz" \
+        --slave   "$mandir/Mail.1.gz"  Mail.1.gz  "$mandir/$program.1.gz" 
+fi
+
+# Automatically added by dh_installmenu
+if [ "$1" = "configure" ] && [ -x "`which update-menus 2>/dev/null`" ]; then
+	update-menus
+fi
+# End automatically added section
+

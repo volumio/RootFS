@@ -1,0 +1,10 @@
+/.
+/lib
+/lib/arm-linux-gnueabihf
+/lib/arm-linux-gnueabihf/libsystemd-daemon.so.0.0.1
+/usr
+/usr/share
+/usr/share/doc/libsystemd-daemon0
+/usr/share/doc/libsystemd-daemon0/changelog.Debian.gz
+/usr/share/doc/libsystemd-daemon0/copyright
+/lib/arm-linux-gnueabihf/libsystemd-daemon.so.0

@@ -1,0 +1,204 @@
+
+Log started: 2013-08-28  10:50:44
+Selecting previously unselected package php5-cli.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 21801 files and directories currently installed.)
+Unpacking php5-cli (from .../php5-cli_5.4.4-14+deb7u2_armhf.deb) ...
+Setting up php5-cli (5.4.4-14+deb7u2) ...
+[?1049h[1;24r[4l[?25l(B[m[37m[40m[1;24r[H[2J[1;1H[1m[37m[44m                                                                                [2;1H                                                                                [3;1H                                                                                [4;1H                                                                                [5;1H                                                                                [6;1H                                                                                [7;1H                                                                                [8;1H                                                                                [9;1H                                                                                [10;1H                                                                                [11;1H                                                                                [12;1H                                                                                [13;1H                                                                                [14;1H                                                                                [15;1H                                                                                [16;1H                                                                                [17;1H                                                                                [18;1H                                                                                [19;1H                                                                                [20;1H                                                                                [21;1H                                                                                [22;1H                                                                                [23;1H                                                                                [24;1H                                                                               [24;79H [4h [4l[1;1H(B[m[37m[44mPackage configuration[5;2H(0[30m[47mlqqqqqqqqqqqqqqqqqqqqqqu(B[m(B[30m[47m [31mModified configuration file[30m (0[30m[47mtqqqqqqqqqqqqqqqqqqqqqqk[6;2Hx(B[m(B[30m[47m A new version of configuration file /etc/php5/cli/php.ini is available,   (0[30m[47mx(B[m(B[1m[37m[40m [7;2H(B[m(0[30m[47mx(B[m(B[30m[47m but the version installed currently has been locally modified.            (0[30m[47mx(B[m(B[1m[37m[40m [8;2H(B[m(0[30m[47mx(B[m(B[30m[47m                                                                           (0[30m[47mx(B[m(B[1m[37m[40m [9;2H(B[m(0[30m[47mx(B[m(B[30m[47m What do you want to do about modified configuration file php.ini?         (0[30m[47mx(B[m(B[1m[37m[40m [10;2H(B[m(0[30m[47mx(B[m(B[30m[47m                                                                           (0[30m[47mx(B[m(B[1m[37m[40m [11;2H(B[m(0[30m[47mx(B[m(B[30m[47m            install the package maintainer's version                       (0[30m[47mx(B[m(B[1m[37m[40m [12;2H(B[m(0[30m[47mx(B[m(B[30m[47m            [37m[41mkeep the local version currently installed         [30m[47m            (0[30m[47mx(B[m(B[1m[37m[40m [13;2H(B[m(0[30m[47mx(B[m(B[30m[47m            show the differences between the versions                      (0[30m[47mx(B[m(B[1m[37m[40m [14;2H(B[m(0[30m[47mx(B[m(B[30m[47m            show a side-by-side difference between the versions            (0[30m[47mx(B[m(B[1m[37m[40m [15;2H(B[m(0[30m[47mx(B[m(B[30m[47m            start a new shell to examine the situation                     (0[30m[47mx(B[m(B[1m[37m[40m [16;2H(B[m(0[30m[47mx(B[m(B[30m[47m                                                                           (0[30m[47mx(B[m(B[1m[37m[40m [17;2H(B[m(0[30m[47mx(B[m(B[30m[47m                                                                           (0[30m[47mx(B[m(B[1m[37m[40m [18;2H(B[m(0[30m[47mx(B[m(B[30m[47m                                  <Ok>                                     (0[30m[47mx(B[m(B[1m[37m[40m [19;2H(B[m(0[30m[47mx(B[m(B[30m[47m                                                                           (0[30m[47mx(B[m(B[1m[37m[40m [20;2H(B[m(0[30m[47mmqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj(B[m(B[1m[37m[40m [21;3H                                                                             [12;15H[?12l[?25h[24;1H(B[m[37m[40m(B[m[39;49m[K[?1049lupdate-alternatives: using /usr/bin/php5 to provide /usr/bin/php (php) in auto mode
+Log ended: 2013-08-28  10:51:02
+
+Log started: 2013-12-02  01:22:43
+Selecting previously unselected package cron.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 21807 files and directories currently installed.)
+Unpacking cron (from .../cron_3.0pl1-124_armhf.deb) ...
+Selecting previously unselected package libcups2:armhf.
+Unpacking libcups2:armhf (from .../libcups2_1.5.3-5+deb7u1_armhf.deb) ...
+Preparing to replace libnss-winbind:armhf 2:3.6.6-6 (using .../libnss-winbind_2%3a3.6.6-6+deb7u1_armhf.deb) ...
+Unpacking replacement libnss-winbind:armhf ...
+Preparing to replace libpam-winbind:armhf 2:3.6.6-6 (using .../libpam-winbind_2%3a3.6.6-6+deb7u1_armhf.deb) ...
+Unpacking replacement libpam-winbind:armhf ...
+Preparing to replace libwbclient0:armhf 2:3.6.6-6 (using .../libwbclient0_2%3a3.6.6-6+deb7u1_armhf.deb) ...
+Unpacking replacement libwbclient0:armhf ...
+Preparing to replace winbind 2:3.6.6-6 (using .../winbind_2%3a3.6.6-6+deb7u1_armhf.deb) ...
+Stopping the Winbind daemon: winbind.
+Unpacking replacement winbind ...
+Preparing to replace samba-common 2:3.6.6-6 (using .../samba-common_2%3a3.6.6-6+deb7u1_all.deb) ...
+Unpacking replacement samba-common ...
+Selecting previously unselected package libfile-copy-recursive-perl.
+Unpacking libfile-copy-recursive-perl (from .../libfile-copy-recursive-perl_0.38-1_all.deb) ...
+Selecting previously unselected package update-inetd.
+Unpacking update-inetd (from .../update-inetd_4.43_all.deb) ...
+Selecting previously unselected package samba.
+Unpacking samba (from .../samba_2%3a3.6.6-6+deb7u1_armhf.deb) ...
+Selecting previously unselected package logrotate.
+Unpacking logrotate (from .../logrotate_3.8.1-4_armhf.deb) ...
+Selecting previously unselected package exim4-config.
+Unpacking exim4-config (from .../exim4-config_4.80-7_all.deb) ...
+Selecting previously unselected package exim4-base.
+Unpacking exim4-base (from .../exim4-base_4.80-7_armhf.deb) ...
+Selecting previously unselected package exim4-daemon-light.
+Unpacking exim4-daemon-light (from .../exim4-daemon-light_4.80-7_armhf.deb) ...
+Selecting previously unselected package exim4.
+Unpacking exim4 (from .../archives/exim4_4.80-7_all.deb) ...
+Selecting previously unselected package heirloom-mailx.
+Unpacking heirloom-mailx (from .../heirloom-mailx_12.5-2_armhf.deb) ...
+Selecting previously unselected package tdb-tools.
+Unpacking tdb-tools (from .../tdb-tools_1.2.10-2_armhf.deb) ...
+Setting up cron (3.0pl1-124) ...
+Adding group `crontab' (GID 109) ...
+Done.
+insserv: warning: script 'K02shairport' missing LSB tags and overrides
+insserv: warning: script 'shairport' missing LSB tags and overrides
+Starting periodic command scheduler: cron.
+Setting up libcups2:armhf (1.5.3-5+deb7u1) ...
+Setting up libwbclient0:armhf (2:3.6.6-6+deb7u1) ...
+Setting up samba-common (2:3.6.6-6+deb7u1) ...
+Setting up winbind (2:3.6.6-6+deb7u1) ...
+insserv: warning: script 'K02shairport' missing LSB tags and overrides
+insserv: warning: script 'shairport' missing LSB tags and overrides
+Starting the Winbind daemon: winbind.
+Setting up libnss-winbind:armhf (2:3.6.6-6+deb7u1) ...
+Setting up libpam-winbind:armhf (2:3.6.6-6+deb7u1) ...
+Setting up libfile-copy-recursive-perl (0.38-1) ...
+Setting up update-inetd (4.43) ...
+Setting up samba (2:3.6.6-6+deb7u1) ...
+Generating /etc/default/samba...
+Adding group `sambashare' (GID 110) ...
+Done.
+update-alternatives: using /usr/bin/smbstatus.samba3 to provide /usr/bin/smbstatus (smbstatus) in auto mode
+insserv: warning: script 'K02shairport' missing LSB tags and overrides
+insserv: warning: script 'shairport' missing LSB tags and overrides
+Starting Samba daemons: nmbd smbd.
+Setting up logrotate (3.8.1-4) ...
+Setting up exim4-config (4.80-7) ...
+Adding system-user for exim (v4)
+Setting up exim4-base (4.80-7) ...
+exim: DB upgrade, deleting hints-db
+insserv: warning: script 'K02shairport' missing LSB tags and overrides
+insserv: warning: script 'shairport' missing LSB tags and overrides
+Setting up exim4-daemon-light (4.80-7) ...
+Starting MTA: exim4.
+ALERT: exim paniclog /var/log/exim4/paniclog has non-zero size, mail system possibly broken
+Setting up exim4 (4.80-7) ...
+Setting up heirloom-mailx (12.5-2) ...
+update-alternatives: using /usr/bin/heirloom-mailx to provide /usr/bin/mailx (mailx) in auto mode
+Setting up tdb-tools (1.2.10-2) ...
+update-alternatives: using /usr/bin/tdbbackup.tdbtools to provide /usr/bin/tdbbackup (tdbbackup) in auto mode
+Log ended: 2013-12-02  01:23:58
+
+Log started: 2013-12-02  01:31:15
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 22175 files and directories currently installed.)
+Removing cifs-utils ...
+Log ended: 2013-12-02  01:31:17
+
+Log started: 2013-12-02  01:41:37
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 22157 files and directories currently installed.)
+Removing autofs ...
+Stopping automount....
+Log ended: 2013-12-02  01:41:38
+
+Log started: 2013-12-02  01:42:08
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 22109 files and directories currently installed.)
+Removing keyutils ...
+Removing libnss-winbind:armhf ...
+Removing libpam-winbind:armhf ...
+Removing winbind ...
+Stopping the Winbind daemon: winbind.
+Log ended: 2013-12-02  01:42:15
+
+Log started: 2013-12-02  01:47:19
+Selecting previously unselected package pmount.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 22055 files and directories currently installed.)
+Unpacking pmount (from .../pmount_0.9.23-2_armhf.deb) ...
+Setting up pmount (0.9.23-2) ...
+Log ended: 2013-12-02  01:47:23
+
+Log started: 2013-12-02  01:58:01
+Selecting previously unselected package libpci3:armhf.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 22109 files and directories currently installed.)
+Unpacking libpci3:armhf (from .../libpci3_1%3a3.1.9-6_armhf.deb) ...
+Selecting previously unselected package libck-connector0:armhf.
+Unpacking libck-connector0:armhf (from .../libck-connector0_0.4.5-3.1_armhf.deb) ...
+Selecting previously unselected package libdbus-glib-1-2:armhf.
+Unpacking libdbus-glib-1-2:armhf (from .../libdbus-glib-1-2_0.100.2-1_armhf.deb) ...
+Selecting previously unselected package libpolkit-gobject-1-0:armhf.
+Unpacking libpolkit-gobject-1-0:armhf (from .../libpolkit-gobject-1-0_0.105-3_armhf.deb) ...
+Selecting previously unselected package module-init-tools.
+Unpacking module-init-tools (from .../module-init-tools_9-3_all.deb) ...
+Selecting previously unselected package pciutils.
+Unpacking pciutils (from .../pciutils_1%3a3.1.9-6_armhf.deb) ...
+Selecting previously unselected package consolekit.
+Unpacking consolekit (from .../consolekit_0.4.5-3.1_armhf.deb) ...
+Selecting previously unselected package eject.
+Unpacking eject (from .../eject_2.1.5+deb1+cvs20081104-13_armhf.deb) ...
+Selecting previously unselected package libhal1.
+Unpacking libhal1 (from .../libhal1_0.5.14-8_armhf.deb) ...
+Selecting previously unselected package libhal-storage1.
+Unpacking libhal-storage1 (from .../libhal-storage1_0.5.14-8_armhf.deb) ...
+Selecting previously unselected package hal-info.
+Unpacking hal-info (from .../hal-info_20091130-1_all.deb) ...
+Selecting previously unselected package hal.
+Unpacking hal (from .../hal_0.5.14-8_armhf.deb) ...
+Selecting previously unselected package hdparm.
+Unpacking hdparm (from .../hdparm_9.39-1+b1_armhf.deb) ...
+Selecting previously unselected package libpam-ck-connector:armhf.
+Unpacking libpam-ck-connector:armhf (from .../libpam-ck-connector_0.4.5-3.1_armhf.deb) ...
+Selecting previously unselected package powermgmt-base.
+Unpacking powermgmt-base (from .../powermgmt-base_1.31_armhf.deb) ...
+Selecting previously unselected package pm-utils.
+Unpacking pm-utils (from .../pm-utils_1.4.1-9_all.deb) ...
+Setting up libpci3:armhf (1:3.1.9-6) ...
+Setting up libck-connector0:armhf (0.4.5-3.1) ...
+Setting up libdbus-glib-1-2:armhf (0.100.2-1) ...
+Setting up libpolkit-gobject-1-0:armhf (0.105-3) ...
+Setting up module-init-tools (9-3) ...
+Setting up pciutils (1:3.1.9-6) ...
+Setting up consolekit (0.4.5-3.1) ...
+Setting up eject (2.1.5+deb1+cvs20081104-13) ...
+Setting up libhal1 (0.5.14-8) ...
+Setting up libhal-storage1 (0.5.14-8) ...
+Setting up hal-info (20091130-1) ...
+Setting up hal (0.5.14-8) ...
+Reloading system message bus config...done.
+Setting up hdparm (9.39-1+b1) ...
+insserv: warning: script 'K02shairport' missing LSB tags and overrides
+insserv: warning: script 'shairport' missing LSB tags and overrides
+Setting up libpam-ck-connector:armhf (0.4.5-3.1) ...
+Setting up powermgmt-base (1.31) ...
+Setting up pm-utils (1.4.1-9) ...
+Log ended: 2013-12-02  01:58:31
+
+Log started: 2013-12-02  02:11:09
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 22563 files and directories currently installed.)
+Removing hal ...
+Removing pmount ...
+Log ended: 2013-12-02  02:11:10
+
+Log started: 2013-12-02  02:11:36
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 22383 files and directories currently installed.)
+Removing consolekit ...
+Removing eject ...
+Removing hal-info ...
+Removing hdparm ...
+Removing libpam-ck-connector:armhf ...
+Removing libck-connector0:armhf ...
+Removing libdbus-glib-1-2:armhf ...
+Removing libhal-storage1 ...
+Removing libhal1 ...
+Removing libpolkit-gobject-1-0:armhf ...
+Removing pm-utils ...
+Removing powermgmt-base ...
+Log ended: 2013-12-02  02:11:47
+
+Log started: 2014-02-08  15:09:03
+Selecting previously unselected package libopts25.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 22102 files and directories currently installed.)
+Unpacking libopts25 (from .../libopts25_1%3a5.12-0.1_armhf.deb) ...
+Selecting previously unselected package ntp.
+Unpacking ntp (from .../ntp_1%3a4.2.6.p5+dfsg-2_armhf.deb) ...
+Setting up libopts25 (1:5.12-0.1) ...
+Setting up ntp (1:4.2.6.p5+dfsg-2) ...
+insserv: warning: script 'K02shairport' missing LSB tags and overrides
+insserv: warning: script 'shairport' missing LSB tags and overrides
+[....] Starting NTP server: ntpd[?25l7[1G[[32m ok [39;49m8[?12l[?25h.
+Log ended: 2014-02-08  15:09:09

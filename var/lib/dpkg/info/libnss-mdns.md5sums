@@ -1,0 +1,11 @@
+9e3546fa56d13cfd6614143e6682742d  lib/libnss_mdns.so.2
+8ca4752dcf197c64693198bfe135e3a0  lib/libnss_mdns4.so.2
+649961c33e7b1a97cab23d8e95a02880  lib/libnss_mdns4_minimal.so.2
+b39f7988d4ef3af4a961e7bbcaab299e  lib/libnss_mdns6.so.2
+33bdfdaa7694d22911202ec2eb4898ee  lib/libnss_mdns6_minimal.so.2
+bde9789d9a7e5b622b01593686ae7c06  lib/libnss_mdns_minimal.so.2
+5adf5f26ccf4c8761014722ab2920e5e  usr/share/doc/libnss-mdns/README.Debian
+899020b902cd8351f77ccdb1e9df604d  usr/share/doc/libnss-mdns/README.html
+d42d23cb55ab728963a5b310bce00a11  usr/share/doc/libnss-mdns/changelog.Debian.gz
+da7eed5182e71f85a359c59cc08939b8  usr/share/doc/libnss-mdns/copyright
+8a90c4577b8e37202aea4bc99dfe41a3  usr/share/doc/libnss-mdns/style.css

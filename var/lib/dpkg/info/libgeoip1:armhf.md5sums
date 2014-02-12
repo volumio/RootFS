@@ -1,0 +1,9 @@
+eb370992154cb8bdb059bbceafe157be  usr/lib/arm-linux-gnueabihf/libGeoIP.so.1.5.1
+916d07a83fd9977353ea84a154f5caaa  usr/lib/arm-linux-gnueabihf/libGeoIPUpdate.so.0.0.0
+c1a5a5c9b807597fafd29495e02fe90c  usr/share/doc/libgeoip1/README.Debian
+dc8c40223924e87b7c61dc0f4b3d8935  usr/share/doc/libgeoip1/README.gz
+23e5cc5317860a74ebd914f17b0d426c  usr/share/doc/libgeoip1/TODO
+f884e6c0c2f388a058659a5d7bf9a1f1  usr/share/doc/libgeoip1/changelog.Debian.gz
+a2b950bc26831903ff6c0f0e0ce01ee5  usr/share/doc/libgeoip1/changelog.gz
+0afbd8840a0f89debd7bb981dd729a24  usr/share/doc/libgeoip1/copyright
+4dffa01095fbf92033a2482d141c58b4  usr/share/lintian/overrides/libgeoip1

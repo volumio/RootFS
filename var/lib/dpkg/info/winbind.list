@@ -1,0 +1,7 @@
+/etc
+/etc/default
+/etc/default/winbind
+/etc/init.d
+/etc/init.d/winbind
+/etc/logrotate.d
+/etc/logrotate.d/winbind

@@ -1,0 +1,16 @@
+7c8baddd20db9d36c3f1d8df7a2565c5  usr/bin/zipinfo
+7f140008b49026078d57626069262280  usr/bin/funzip
+ddf51a6f1d31b015b654033bd027c94a  usr/bin/zipgrep
+7c8baddd20db9d36c3f1d8df7a2565c5  usr/bin/unzip
+46e71b7fa30c53a58bceca16264ea5a4  usr/bin/unzipsfx
+4ff1fd3be8fd671ccd74687c440f09b1  usr/share/man/man1/unzip.1.gz
+7cb3bfe5f4e05b371018f672b5bddb18  usr/share/man/man1/zipinfo.1.gz
+19fbb376bc034f950529fcc1361563a2  usr/share/man/man1/funzip.1.gz
+653893d1b298166cd3f0525a6d568c30  usr/share/man/man1/unzipsfx.1.gz
+6e8923a14175e570d393200ceff235ca  usr/share/man/man1/zipgrep.1.gz
+fda63e6d78e90080670420022bb81de8  usr/share/doc/unzip/History.600.gz
+671a86145ef0dad351e82f07fbebe42f  usr/share/doc/unzip/changelog.Debian.gz
+e424d0ea088ae1427e051ae8b990f6ca  usr/share/doc/unzip/copyright
+a1ad64603167b75b8f2df432bb6cc695  usr/share/doc/unzip/ToDo
+889719b85e5472d3edb4e1b82c949619  usr/share/doc/unzip/BUGS
+6c94ac009bf9ee6646472afb6f5f0b53  usr/lib/mime/packages/unzip

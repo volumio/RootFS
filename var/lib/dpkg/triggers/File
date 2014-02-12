@@ -1,0 +1,5 @@
+/usr/lib/arm-linux-gnueabihf/gio/modules libglib2.0-0:armhf
+/usr/lib/gio/modules libglib2.0-0:armhf
+/usr/share/glib-2.0/schemas libglib2.0-0:armhf
+/usr/lib/mime/packages mime-support
+/etc/php5/conf.d php5-fpm

@@ -1,0 +1,22 @@
+TARGETS = minidlna urandom samba exim4 shairport nginx php5-fpm winbind mpd avahi-daemon autofs alsa-utils sendsigs umountnfs.sh rpcbind nfs-common hwclock.sh networking umountfs umountroot halt reboot
+urandom: minidlna
+samba: minidlna
+exim4: minidlna
+shairport: minidlna
+nginx: minidlna
+php5-fpm: minidlna
+winbind: minidlna
+mpd: minidlna
+avahi-daemon: minidlna
+autofs: mpd minidlna
+alsa-utils: mpd minidlna
+sendsigs: winbind samba autofs exim4 shairport nginx alsa-utils php5-fpm mpd avahi-daemon minidlna
+umountnfs.sh: winbind samba autofs exim4 shairport nginx alsa-utils php5-fpm mpd sendsigs avahi-daemon minidlna
+rpcbind: umountnfs.sh minidlna
+nfs-common: umountnfs.sh minidlna
+hwclock.sh: nfs-common minidlna
+networking: winbind rpcbind samba autofs exim4 nginx php5-fpm umountnfs.sh mpd minidlna
+umountfs: winbind rpcbind samba urandom autofs exim4 hwclock.sh shairport nginx alsa-utils php5-fpm networking umountnfs.sh mpd avahi-daemon minidlna
+umountroot: umountfs minidlna
+halt: umountroot minidlna
+reboot: umountroot minidlna

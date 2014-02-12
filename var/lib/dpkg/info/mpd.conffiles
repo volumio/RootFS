@@ -1,0 +1,4 @@
+/etc/mpd.conf
+/etc/logrotate.d/mpd
+/etc/default/mpd
+/etc/init.d/mpd

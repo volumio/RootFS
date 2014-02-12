@@ -1,0 +1,5 @@
+560dde3e73670d73a697b23a5fc6b9f2  usr/bin/lshw
+4333a5a2fdcbc2b1f1bd11c670ae2b51  usr/share/doc/lshw/changelog.Debian.gz
+aed23aa18cbf326e7ce43e7e539357b6  usr/share/doc/lshw/copyright
+1d2c65430f56e4f0cb68426fa4554517  usr/share/locale/fr/LC_MESSAGES/lshw.mo
+74746278ef5a91bcf7ecac6bc5829fcc  usr/share/man/man1/lshw.1.gz

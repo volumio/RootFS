@@ -1,0 +1,9 @@
+TARGETS = bootlogs killprocs motd single rpcbind nfs-common samba autofs exim4 shairport nginx php5-fpm dbus ssh sudo ntp winbind mpd avahi-daemon cron rmnologin rc.local
+INTERACTIVE =
+single: killprocs bootlogs motd
+winbind: samba
+mpd: autofs
+avahi-daemon: dbus
+cron: autofs
+rmnologin: sudo winbind samba rpcbind nfs-common autofs exim4 shairport nginx php5-fpm mpd avahi-daemon dbus bootlogs motd cron ssh ntp
+rc.local: winbind samba rpcbind nfs-common autofs exim4 shairport nginx php5-fpm mpd avahi-daemon dbus bootlogs motd cron ssh sudo ntp

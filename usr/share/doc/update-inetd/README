@@ -1,0 +1,5 @@
+update-inetd is in the process of being deprecated. If you're the maintainer
+of a package that depends on update-inetd, please migrate to reconf-inetd,
+as documented in DEP9 (http://dep.debian.net/deps/dep9/)
+
+ -- Serafeim Zanikolas <sez@debian.org>  Sun, 20 May 2012 16:24:48 +0200

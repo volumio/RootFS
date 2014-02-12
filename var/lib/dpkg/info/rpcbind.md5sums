@@ -1,0 +1,7 @@
+6f04ae54959f20fe881ec73ec9e9dc80  sbin/rpcbind
+2a424fe56cf62c84dfefecd143e23c3d  usr/sbin/rpcinfo
+9b49eabb4e19625d905fcb0bd30360a2  usr/share/doc/rpcbind/changelog.Debian.gz
+de8068b7b38af9a468406a5609cd9c3a  usr/share/doc/rpcbind/changelog.gz
+c059db74bf455d32542836ff2eed2cda  usr/share/doc/rpcbind/copyright
+1ead48ee7dafd9d58ceaa445b0a5e8d9  usr/share/man/man7/rpcinfo.7.gz
+0b45a1f6196a8a8b0646f81976771552  usr/share/man/man8/rpcbind.8.gz

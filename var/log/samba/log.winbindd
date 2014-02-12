@@ -1,0 +1,66 @@
+[2013/08/28 09:51:16,  0] winbindd/winbindd.c:1346(main)
+  winbindd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[2013/08/28 09:51:16.327439,  0] winbindd/winbindd_cache.c:3147(initialize_winbindd_cache)
+  initialize_winbindd_cache: clearing cache and re-creating with version number 2
+[2013/08/28 10:54:33,  0] winbindd/winbindd.c:1346(main)
+  winbindd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[2013/08/28 10:54:33.660003,  0] winbindd/winbindd_cache.c:3147(initialize_winbindd_cache)
+  initialize_winbindd_cache: clearing cache and re-creating with version number 2
+[2013/08/28 11:03:07.837018,  0] winbindd/winbindd.c:212(winbindd_sig_term_handler)
+  Got sig[15] terminate (is_parent=1)
+[2013/08/28 11:03:56,  0] winbindd/winbindd.c:1346(main)
+  winbindd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[2013/08/28 11:03:56.599551,  0] winbindd/winbindd_cache.c:3147(initialize_winbindd_cache)
+  initialize_winbindd_cache: clearing cache and re-creating with version number 2
+[2013/12/02 01:03:44,  0] winbindd/winbindd.c:1346(main)
+  winbindd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[2013/12/02 01:03:44.387124,  0] winbindd/winbindd_cache.c:3147(initialize_winbindd_cache)
+  initialize_winbindd_cache: clearing cache and re-creating with version number 2
+[2013/12/02 01:11:40.760159,  0] winbindd/winbindd.c:212(winbindd_sig_term_handler)
+  Got sig[15] terminate (is_parent=1)
+[2013/12/02 01:12:30,  0] winbindd/winbindd.c:1346(main)
+  winbindd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[2013/12/02 01:12:31.007892,  0] winbindd/winbindd_cache.c:3147(initialize_winbindd_cache)
+  initialize_winbindd_cache: clearing cache and re-creating with version number 2
+[2013/12/02 01:15:40.091841,  0] winbindd/winbindd.c:212(winbindd_sig_term_handler)
+  Got sig[15] terminate (is_parent=1)
+[2013/12/02 01:16:30,  0] winbindd/winbindd.c:1346(main)
+  winbindd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[2013/12/02 01:16:30.081083,  0] winbindd/winbindd_cache.c:3147(initialize_winbindd_cache)
+  initialize_winbindd_cache: clearing cache and re-creating with version number 2
+[2013/12/02 01:17:47.347055,  0] winbindd/winbindd.c:212(winbindd_sig_term_handler)
+  Got sig[15] terminate (is_parent=1)
+[2013/12/02 01:18:35,  0] winbindd/winbindd.c:1346(main)
+  winbindd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[2013/12/02 01:18:35.955177,  0] winbindd/winbindd_cache.c:3147(initialize_winbindd_cache)
+  initialize_winbindd_cache: clearing cache and re-creating with version number 2
+[2013/12/02 01:22:52.846585,  0] winbindd/winbindd.c:212(winbindd_sig_term_handler)
+  Got sig[15] terminate (is_parent=1)
+[2013/12/02 01:23:24,  0] winbindd/winbindd.c:1346(main)
+  winbindd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[2013/12/02 01:23:24.021206,  0] winbindd/winbindd_cache.c:3147(initialize_winbindd_cache)
+  initialize_winbindd_cache: clearing cache and re-creating with version number 2
+[2013/12/02 01:26:09.876143,  0] winbindd/winbindd.c:212(winbindd_sig_term_handler)
+  Got sig[15] terminate (is_parent=1)
+[2013/12/02 01:27:02,  0] winbindd/winbindd.c:1346(main)
+  winbindd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[2013/12/02 01:27:02.229879,  0] winbindd/winbindd_cache.c:3147(initialize_winbindd_cache)
+  initialize_winbindd_cache: clearing cache and re-creating with version number 2
+[2013/12/02 01:36:47.394296,  0] winbindd/winbindd.c:212(winbindd_sig_term_handler)
+  Got sig[15] terminate (is_parent=1)
+[2013/12/02 01:37:42,  0] winbindd/winbindd.c:1346(main)
+  winbindd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[2013/12/02 01:37:42.571037,  0] winbindd/winbindd_cache.c:3147(initialize_winbindd_cache)
+  initialize_winbindd_cache: clearing cache and re-creating with version number 2
+[2013/12/02 01:42:14.127105,  0] winbindd/winbindd.c:212(winbindd_sig_term_handler)
+  Got sig[15] terminate (is_parent=1)

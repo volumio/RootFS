@@ -1,0 +1,17 @@
+69ec69ca75fdcc826fdb18273a479c1c  usr/share/doc/libio-socket-ssl-perl/BUGS
+0eabbf8b02b43ab6428a4fe3649693de  usr/share/doc/libio-socket-ssl-perl/NEWS.Debian.gz
+ea4c726d4018b9f96201e28caa8d8a26  usr/share/doc/libio-socket-ssl-perl/changelog.Debian.gz
+9c2d3e5f0dda804800eb97046580bc14  usr/share/doc/libio-socket-ssl-perl/changelog.gz
+888aebbb9463a89d3c45e87d408bb286  usr/share/doc/libio-socket-ssl-perl/copyright
+4698f01ff50169a39c43e95544c5c75f  usr/share/doc/libio-socket-ssl-perl/debugging.txt
+4510620da9dba35a7eb144e45b11afa3  usr/share/doc/libio-socket-ssl-perl/examples/async_https_server.pl.gz
+02433f0b3f0e171eee8da1d280cf8cae  usr/share/doc/libio-socket-ssl-perl/examples/lwp-with-verifycn.pl
+c09c279c64a4d0a22f1f0b3f4a3c7777  usr/share/doc/libio-socket-ssl-perl/examples/ssl_client.pl
+214de509fae41caa9705745bb46bb6ab  usr/share/doc/libio-socket-ssl-perl/examples/ssl_mitm.pl
+55289a2a8c494323eb45361431ae7d0d  usr/share/doc/libio-socket-ssl-perl/examples/ssl_server.pl
+dc5956bb983a1a56a37558c247e2b26e  usr/share/man/man3/IO::Socket::SSL.3pm.gz
+95e1489f3a229f1770059ad6b7e81fa6  usr/share/man/man3/IO::Socket::SSL::Intercept.3pm.gz
+c056e564219530b991e6a8d014d8a176  usr/share/man/man3/IO::Socket::SSL::Utils.3pm.gz
+758bdc022da6a27bae715cba4fe0101f  usr/share/perl5/IO/Socket/SSL.pm
+a64a7d534f4f43544ee818a487c9bfa7  usr/share/perl5/IO/Socket/SSL/Intercept.pm
+8fc92ac611d3ec63949b5b6ebb710783  usr/share/perl5/IO/Socket/SSL/Utils.pm

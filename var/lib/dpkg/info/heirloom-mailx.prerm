@@ -1,0 +1,10 @@
+#!/bin/sh
+
+set -e
+
+if [ "$1" = "remove" ]; then
+    update-alternatives --remove "mailx" "/usr/bin/heirloom-mailx"
+fi
+
+
+

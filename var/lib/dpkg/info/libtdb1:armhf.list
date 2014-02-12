@@ -1,0 +1,10 @@
+/.
+/usr
+/usr/share
+/usr/share/doc/libtdb1
+/usr/share/doc/libtdb1/changelog.Debian.gz
+/usr/share/doc/libtdb1/copyright
+/usr/lib
+/usr/lib/arm-linux-gnueabihf
+/usr/lib/arm-linux-gnueabihf/libtdb.so.1.2.10
+/usr/lib/arm-linux-gnueabihf/libtdb.so.1

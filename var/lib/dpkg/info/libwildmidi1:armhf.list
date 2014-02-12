@@ -1,0 +1,10 @@
+/.
+/usr
+/usr/lib
+/usr/lib/arm-linux-gnueabihf
+/usr/lib/arm-linux-gnueabihf/libWildMidi.so.1.0.2
+/usr/share
+/usr/share/doc/libwildmidi1
+/usr/share/doc/libwildmidi1/copyright
+/usr/share/doc/libwildmidi1/changelog.Debian.gz
+/usr/lib/arm-linux-gnueabihf/libWildMidi.so.1

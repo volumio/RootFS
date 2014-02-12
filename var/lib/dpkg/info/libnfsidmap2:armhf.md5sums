@@ -1,0 +1,8 @@
+25f87509dda227348bc6bd84255d1e56  lib/arm-linux-gnueabihf/libnfsidmap.so.0.3.0
+55f0c04a61147c56a424cfee78586494  lib/arm-linux-gnueabihf/libnfsidmap/nsswitch.so
+a2880118135e006ea1008ba57f6c4e19  lib/arm-linux-gnueabihf/libnfsidmap/static.so
+b9f5c5a646b5f9f0370c7f9d0a2f1032  lib/arm-linux-gnueabihf/libnfsidmap/umich_ldap.so
+a5359263c31f263e76e712aa62b0243a  usr/share/doc/libnfsidmap2/changelog.Debian.gz
+81cfc9c655885c41f37f4db2d3e4ae2a  usr/share/doc/libnfsidmap2/changelog.gz
+f634f3f537eedec0163640a9277255b6  usr/share/doc/libnfsidmap2/copyright
+4bc3298e0f7a126d36ea96f77e068dee  usr/share/man/man5/idmapd.conf.5.gz

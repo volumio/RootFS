@@ -1,0 +1,51 @@
+
+Start-Date: 2013-08-28  10:50:44
+Commandline: apt-get install php5 php5-cli
+Install: php5-cli:armhf (5.4.4-14+deb7u2)
+End-Date: 2013-08-28  10:51:02
+
+Start-Date: 2013-12-02  01:22:43
+Commandline: apt-get install samba
+Install: exim4-config:armhf (4.80-7, automatic), exim4-daemon-light:armhf (4.80-7, automatic), logrotate:armhf (3.8.1-4, automatic), libfile-copy-recursive-perl:armhf (0.38-1, automatic), tdb-tools:armhf (1.2.10-2, automatic), heirloom-mailx:armhf (12.5-2, automatic), libcups2:armhf (1.5.3-5+deb7u1, automatic), cron:armhf (3.0pl1-124, automatic), update-inetd:armhf (4.43, automatic), samba:armhf (3.6.6-6+deb7u1), exim4:armhf (4.80-7, automatic), exim4-base:armhf (4.80-7, automatic)
+Upgrade: libnss-winbind:armhf (3.6.6-6, 3.6.6-6+deb7u1), libpam-winbind:armhf (3.6.6-6, 3.6.6-6+deb7u1), libwbclient0:armhf (3.6.6-6, 3.6.6-6+deb7u1), samba-common:armhf (3.6.6-6, 3.6.6-6+deb7u1), winbind:armhf (3.6.6-6, 3.6.6-6+deb7u1)
+End-Date: 2013-12-02  01:23:58
+
+Start-Date: 2013-12-02  01:31:15
+Commandline: apt-get remove cifs-utils
+Remove: cifs-utils:armhf (5.5-1)
+End-Date: 2013-12-02  01:31:17
+
+Start-Date: 2013-12-02  01:41:37
+Commandline: apt-get remove autofs
+Remove: autofs:armhf (5.0.7-3)
+End-Date: 2013-12-02  01:41:38
+
+Start-Date: 2013-12-02  01:42:08
+Commandline: apt-get autoremove
+Remove: libnss-winbind:armhf (3.6.6-6+deb7u1), libpam-winbind:armhf (3.6.6-6+deb7u1), winbind:armhf (3.6.6-6+deb7u1), keyutils:armhf (1.5.5-3)
+End-Date: 2013-12-02  01:42:15
+
+Start-Date: 2013-12-02  01:47:19
+Commandline: apt-get install pmount
+Install: pmount:armhf (0.9.23-2)
+End-Date: 2013-12-02  01:47:23
+
+Start-Date: 2013-12-02  01:58:01
+Commandline: apt-get install hal
+Install: libpci3:armhf (3.1.9-6, automatic), hdparm:armhf (9.39-1+b1, automatic), libpolkit-gobject-1-0:armhf (0.105-3, automatic), libdbus-glib-1-2:armhf (0.100.2-1, automatic), module-init-tools:armhf (9-3, automatic), libck-connector0:armhf (0.4.5-3.1, automatic), powermgmt-base:armhf (1.31, automatic), libhal1:armhf (0.5.14-8, automatic), hal:armhf (0.5.14-8), pciutils:armhf (3.1.9-6, automatic), libhal-storage1:armhf (0.5.14-8, automatic), pm-utils:armhf (1.4.1-9, automatic), libpam-ck-connector:armhf (0.4.5-3.1, automatic), hal-info:armhf (20091130-1, automatic), eject:armhf (2.1.5+deb1+cvs20081104-13, automatic), consolekit:armhf (0.4.5-3.1, automatic)
+End-Date: 2013-12-02  01:58:31
+
+Start-Date: 2013-12-02  02:11:09
+Commandline: apt-get remove pmount hal
+Remove: hal:armhf (0.5.14-8), pmount:armhf (0.9.23-2)
+End-Date: 2013-12-02  02:11:10
+
+Start-Date: 2013-12-02  02:11:36
+Commandline: apt-get autoremove
+Remove: hdparm:armhf (9.39-1+b1), libpolkit-gobject-1-0:armhf (0.105-3), libdbus-glib-1-2:armhf (0.100.2-1), libck-connector0:armhf (0.4.5-3.1), powermgmt-base:armhf (1.31), libhal1:armhf (0.5.14-8), libhal-storage1:armhf (0.5.14-8), pm-utils:armhf (1.4.1-9), libpam-ck-connector:armhf (0.4.5-3.1), hal-info:armhf (20091130-1), eject:armhf (2.1.5+deb1+cvs20081104-13), consolekit:armhf (0.4.5-3.1)
+End-Date: 2013-12-02  02:11:47
+
+Start-Date: 2014-02-08  15:09:03
+Commandline: apt-get install ntp
+Install: libopts25:armhf (5.12-0.1, automatic), ntp:armhf (4.2.6.p5+dfsg-2)
+End-Date: 2014-02-08  15:09:09

@@ -1,0 +1,306 @@
+Initializing cgroup subsys cpu
+Linux version 3.0.35-g0f2006c-dirty (rabeeh@solidrun) (gcc version 4.6.x-google 20120106 (prerelease) (GCC) ) #161 SMP PREEMPT Tue Dec 31 14:06:45 IST 2013
+CPU: ARMv7 Processor [412fc09a] revision 10 (ARMv7), cr=10c53c7d
+CPU: VIPT nonaliasing data cache, VIPT aliasing instruction cache
+Machine: SolidRun i.MX 6Quad/Dual/DualLite/Solo CuBox-i Board
+Memory policy: ECC disabled, Data cache writealloc
+CPU identified as i.MX6Q, silicon rev 1.2
+On node 0 totalpages: 458752
+free_area_init_node: node 0, pgdat 80bab600, node_mem_map 8b800000
+  DMA zone: 368 pages used for memmap
+  DMA zone: 0 pages reserved
+  DMA zone: 46736 pages, LIFO batch:15
+  Normal zone: 3024 pages used for memmap
+  Normal zone: 318512 pages, LIFO batch:31
+  HighMem zone: 704 pages used for memmap
+  HighMem zone: 89408 pages, LIFO batch:15
+PERCPU: Embedded 7 pages/cpu @8c80e000 s5504 r8192 d14976 u32768
+pcpu-alloc: s5504 r8192 d14976 u32768 alloc=8*4096
+pcpu-alloc: [0] 0 [0] 1 [0] 2 [0] 3 
+Built 1 zonelists in Zone order, mobility grouping on.  Total pages: 454656
+Kernel command line: root=/dev/mmcblk0p1 rootwait video=mxcfb0:dev=hdmi consoleblank=0
+PID hash table entries: 4096 (order: 2, 16384 bytes)
+Dentry cache hash table entries: 262144 (order: 8, 1048576 bytes)
+Inode-cache hash table entries: 131072 (order: 7, 524288 bytes)
+Memory: 512MB 1280MB = 1792MB total
+Memory: 1804608k/1804608k available, 292544k reserved, 360448K highmem
+Virtual kernel memory layout:
+    vector  : 0xffff0000 - 0xffff1000   (   4 kB)
+    fixmap  : 0xfff00000 - 0xfffe0000   ( 896 kB)
+    DMA     : 0xf4600000 - 0xffe00000   ( 184 MB)
+    vmalloc : 0xea800000 - 0xf2000000   ( 120 MB)
+    lowmem  : 0x80000000 - 0xea000000   (1696 MB)
+    pkmap   : 0x7fe00000 - 0x80000000   (   2 MB)
+    modules : 0x7f000000 - 0x7fe00000   (  14 MB)
+      .init : 0x80008000 - 0x8003f000   ( 220 kB)
+      .text : 0x8003f000 - 0x80b36700   (11230 kB)
+      .data : 0x80b38000 - 0x80bac720   ( 466 kB)
+       .bss : 0x80bac744 - 0x80bfc3ec   ( 320 kB)
+SLUB: Genslabs=13, HWalign=32, Order=0-3, MinObjects=0, CPUs=4, Nodes=1
+Preemptible hierarchical RCU implementation.
+NR_IRQS:624
+MXC GPIO hardware
+sched_clock: 32 bits at 3000kHz, resolution 333ns, wraps every 1431655ms
+arm_max_freq=1GHz
+MXC_Early serial console at MMIO 0x2020000 (options '115200')
+bootconsole [ttymxc0] enabled
+Console: colour dummy device 80x30
+console [tty0] enabled, bootconsole disabled
+Calibrating delay loop... 1581.05 BogoMIPS (lpj=7905280)
+pid_max: default: 32768 minimum: 301
+Mount-cache hash table entries: 512
+Initializing cgroup subsys cpuacct
+Initializing cgroup subsys devices
+Initializing cgroup subsys freezer
+Initializing cgroup subsys perf_event
+CPU: Testing write buffer coherency: ok
+hw perfevents: enabled with ARMv7 Cortex-A9 PMU driver, 7 counters available
+CPU1: Booted secondary processor
+CPU2: Booted secondary processor
+CPU3: Booted secondary processor
+Brought up 4 CPUs
+SMP: Total of 4 processors activated (6324.22 BogoMIPS).
+devtmpfs: initialized
+print_constraints: dummy: 
+NET: Registered protocol family 16
+print_constraints: vddpu: 725 <--> 1300 mV at 1150 mV fast normal 
+print_constraints: vddcore: 725 <--> 1300 mV at 1150 mV fast normal 
+print_constraints: vddsoc: 725 <--> 1300 mV at 1200 mV fast normal 
+print_constraints: vdd2p5: 2000 <--> 2775 mV at 2400 mV fast normal 
+print_constraints: vdd1p1: 800 <--> 1400 mV at 1100 mV fast normal 
+print_constraints: vdd3p0: 2625 <--> 3400 mV at 3000 mV fast normal 
+vmap allocation for size 134221824 failed: use vmalloc=<size> to increase size.
+Unable to get enet.0 clock
+hw-breakpoint: found 6 breakpoint and 1 watchpoint registers.
+hw-breakpoint: 1 breakpoint(s) reserved for watchpoint single-step.
+hw-breakpoint: maximum watchpoint size is 4 bytes.
+L310 cache controller enabled
+l2x0: 16 ways, CACHE_ID 0x410000c7, AUX_CTRL 0x02070000, Cache size: 1048576 B
+bio: create slab <bio-0> at 0
+mxs-dma mxs-dma-apbh: initialized
+print_constraints: vmmc: 3300 mV 
+SCSI subsystem initialized
+libata version 3.00 loaded.
+usbcore: registered new interface driver usbfs
+usbcore: registered new interface driver hub
+usbcore: registered new device driver usb
+Freescale USB OTG Driver loaded, $Revision: 1.55 $
+imx-ipuv3 imx-ipuv3.0: IPU DMFC NORMAL mode: 1(0~1), 5B(4,5), 5F(6,7)
+imx-ipuv3 imx-ipuv3.1: IPU DMFC NORMAL mode: 1(0~1), 5B(4,5), 5F(6,7)
+MIPI CSI2 driver module loaded
+Advanced Linux Sound Architecture Driver Version 1.0.24.
+Bluetooth: Core ver 2.16
+NET: Registered protocol family 31
+Bluetooth: HCI device and connection manager initialized
+Bluetooth: HCI socket layer initialized
+Bluetooth: L2CAP socket layer initialized
+Bluetooth: SCO socket layer initialized
+cfg80211: Calling CRDA to update world regulatory domain
+i2c-core: driver [max17135] using legacy suspend method
+i2c-core: driver [max17135] using legacy resume method
+Switching to clocksource mxc_timer1
+NET: Registered protocol family 2
+IP route cache hash table entries: 65536 (order: 6, 262144 bytes)
+TCP established hash table entries: 262144 (order: 9, 2097152 bytes)
+TCP bind hash table entries: 65536 (order: 7, 786432 bytes)
+TCP: Hash tables configured (established 262144 bind 65536)
+TCP reno registered
+UDP hash table entries: 1024 (order: 3, 32768 bytes)
+UDP-Lite hash table entries: 1024 (order: 3, 32768 bytes)
+NET: Registered protocol family 1
+RPC: Registered named UNIX socket transport module.
+RPC: Registered udp transport module.
+RPC: Registered tcp transport module.
+RPC: Registered tcp NFSv4.1 backchannel transport module.
+PMU: registered new PMU device of type 0
+Static Power Management for Freescale i.MX6
+wait mode is enabled for i.MX6
+cpaddr = ea880000 suspend_iram_base=ea87c000
+PM driver module loaded
+IMX usb wakeup probe
+the wakeup pdata is 0xe9ec0280
+add wake up source irq 75
+IMX usb wakeup probe
+the wakeup pdata is 0xe9cf4bc0
+cpu regulator mode:ldo_enable
+i.MXC CPU frequency driver
+highmem bounce pool size: 64 pages
+JFFS2 version 2.2. (NAND) \xffffffc2\xffffffa9 2001-2006 Red Hat, Inc.
+fuse init (API version 7.16)
+msgmni has been set to 2820
+alg: No test for stdrng (krng)
+io scheduler noop registered
+io scheduler deadline registered
+io scheduler cfq registered (default)
+pwm-backlight pwm-backlight.0: unable to request PWM for backlight
+pwm-backlight: probe of pwm-backlight.0 failed with error -2
+pwm-backlight pwm-backlight.1: unable to request PWM for backlight
+pwm-backlight: probe of pwm-backlight.1 failed with error -2
+MIPI DSI driver module loaded
+mxc_sdc_fb mxc_sdc_fb.0: register mxc display driver hdmi
+mxc_hdmi mxc_hdmi: Detected HDMI controller 0x13:0xa:0xa0:0xc1
+fbcvt: 1920x1080@60: CVT Name - 2.073M9
+imx-ipuv3 imx-ipuv3.0: IPU DMFC DP HIGH RESOLUTION: 1(0,1), 5B(2~5), 5F(6,7)
+Console: switching to colour frame buffer device 240x67
+mxc_sdc_fb mxc_sdc_fb.1: register mxc display driver ldb
+_regulator_get: get() with no identifier
+mxc_sdc_fb mxc_sdc_fb.2: register mxc display driver lcd
+mxc_sdc_fb mxc_sdc_fb.2: NO mxc display driver found!
+mxc_sdc_fb mxc_sdc_fb.3: register mxc display driver ldb
+imx-sdma imx-sdma: loaded firmware 1.1
+imx-sdma imx-sdma: initialized
+fbcvt: 1920x1080@60: CVT Name - 2.073M9
+Serial: IMX driver
+imx-uart.3: ttymxc3 at MMIO 0x21f0000 (irq = 61) is a IMX
+imx-uart.0: ttymxc0 at MMIO 0x2020000 (irq = 58) is a IMX
+[drm] Initialized drm 1.1.0 20060810
+[drm] Initialized vivante 1.0.0 20120216 on minor 0
+loop: module loaded
+No sata disk.
+GPMI NAND driver registered. (IMX)
+vcan: Virtual CAN interface driver
+CAN device driver interface
+flexcan netdevice driver
+FEC Ethernet Driver
+fec_enet_mii_bus: probed
+ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+fsl-ehci fsl-ehci.0: Freescale On-Chip EHCI Host Controller
+fsl-ehci fsl-ehci.0: new USB bus registered, assigned bus number 1
+fsl-ehci fsl-ehci.0: irq 75, io base 0x02184000
+fsl-ehci fsl-ehci.0: USB 2.0 started, EHCI 1.00
+hub 1-0:1.0: USB hub found
+hub 1-0:1.0: 1 port detected
+add wake up source irq 72
+fsl-ehci fsl-ehci.1: Freescale On-Chip EHCI Host Controller
+fsl-ehci fsl-ehci.1: new USB bus registered, assigned bus number 2
+fsl-ehci fsl-ehci.1: irq 72, io base 0x02184200
+fsl-ehci fsl-ehci.1: USB 2.0 started, EHCI 1.00
+hub 2-0:1.0: USB hub found
+hub 2-0:1.0: 1 port detected
+Initializing USB Mass Storage driver...
+usbcore: registered new interface driver usb-storage
+USB Mass Storage support registered.
+usbcore: registered new interface driver usbserial
+USB Serial support registered for generic
+usbcore: registered new interface driver usbserial_generic
+usbserial: USB Serial Driver core
+USB Serial support registered for FTDI USB Serial Device
+usbcore: registered new interface driver ftdi_sio
+ftdi_sio: v1.6.0:USB FTDI Serial Converters Driver
+USB Serial support registered for pl2303
+usbcore: registered new interface driver pl2303
+pl2303: Prolific PL2303 USB to serial adaptor driver
+ARC USBOTG Device Controller driver (1 August 2005)
+mousedev: PS/2 mouse device common for all mice
+i2c-core: driver [isl29023] using legacy suspend method
+i2c-core: driver [isl29023] using legacy resume method
+rtc-pcf8523 2-0068: rtc core: registered rtc-pcf8523 as rtc0
+snvs_rtc snvs_rtc.0: rtc core: registered snvs_rtc as rtc1
+i2c /dev entries driver
+lirc_dev: IR Remote Control driver registered, major 251 
+IR NEC protocol handler initialized
+IR RC5(x) protocol handler initialized
+IR RC6 protocol handler initialized
+IR JVC protocol handler initialized
+IR Sony protocol handler initialized
+IR RC5 (streamzap) protocol handler initialized
+IR LIRC bridge handler initialized
+gpio_ir_recv_probe : called
+gpio_ir_recv_probe : gpio_nr = 73
+Requesting gpio
+Setting direction
+Registered IR keymap rc-empty
+input: gpio_ir_recv as /devices/platform/gpio-rc-recv/rc/rc0/input0
+rc0: gpio_ir_recv as /devices/platform/gpio-rc-recv/rc/rc0
+rc rc0: lirc_dev: driver ir-lirc-codec (gpio-rc-recv) registered at minor = 0
+Linux video capture interface: v2.00
+mxc_v4l2_output mxc_v4l2_output.0: V4L2 device registered as video16
+mxc_v4l2_output mxc_v4l2_output.0: V4L2 device registered as video17
+mxc_v4l2_output mxc_v4l2_output.0: V4L2 device registered as video18
+mxc_v4l2_output mxc_v4l2_output.0: V4L2 device registered as video19
+mxc_v4l2_output mxc_v4l2_output.0: V4L2 device registered as video20
+i2c-core: driver [mag3110] using legacy suspend method
+i2c-core: driver [mag3110] using legacy resume method
+imx2-wdt imx2-wdt.0: IMX2+ Watchdog Timer enabled. timeout=60s (nowayout=1)
+Bluetooth: Virtual HCI driver ver 1.3
+Bluetooth: HCI UART driver ver 2.2
+Bluetooth: HCIATH3K protocol initialized
+Bluetooth: Generic Bluetooth USB driver ver 0.6
+usbcore: registered new interface driver btusb
+sdhci: Secure Digital Host Controller Interface driver
+sdhci: Copyright(c) Pierre Ossman
+mmc0: no vmmc regulator found
+mmc0: SDHCI controller on platform [sdhci-esdhc-imx.0] using DMA
+sdhci sdhci-esdhc-imx.1: no write-protect pin available!
+mmc1: SDHCI controller on platform [sdhci-esdhc-imx.1] using DMA
+mxc_vdoa mxc_vdoa: i.MX Video Data Order Adapter(VDOA) driver probed
+VPU initialized
+mxc_asrc registered
+Galcore version 4.6.9.6622
+Thermal calibration data is 0x54c4c669
+Thermal sensor with ratio = 174
+mmc0: queuing unknown CIS tuple 0x80 (50 bytes)
+Anatop Thermal registered as thermal_zone0
+anatop_thermal_probe: default cooling device is cpufreq!
+HDMI CEC initialized
+usbcore: registered new interface driver usbhid
+usbhid: USB HID core driver
+usbcore: registered new interface driver snd-usb-audio
+mxc_hdmi_soc mxc_hdmi_soc.0: MXC HDMI Audio
+mxc_spdif mxc_spdif.0: MXC SPDIF Audio
+Cirrus Logic CS42888 ALSA SoC Codec Driver
+i2c-core: driver [cs42888] using legacy suspend method
+i2c-core: driver [cs42888] using legacy resume method
+imx_3stack asoc driver
+mmc0: queuing unknown CIS tuple 0x80 (7 bytes)
+asoc: mxc-spdif <-> imx-spdif-dai.0 mapping ok
+mmc0: queuing unknown CIS tuple 0x80 (4 bytes)
+asoc: mxc-hdmi-soc <-> imx-hdmi-soc-dai.0 mapping ok
+ALSA device list:
+  #0: imx-spdif
+  #1: imx-hdmi-soc
+NET: Registered protocol family 26
+TCP cubic registered
+NET: Registered protocol family 17
+can: controller area network core (rev 20090105 abi 8)
+NET: Registered protocol family 29
+can: raw protocol (rev 20090105)
+mmc0: queuing unknown CIS tuple 0x02 (1 bytes)
+can: broadcast manager protocol (rev 20090105 t)
+mmc0: new SDIO card at address 0001
+Bluetooth: RFCOMM TTY layer initialized
+Bluetooth: RFCOMM socket layer initialized
+Bluetooth: RFCOMM ver 1.11
+Bluetooth: BNEP (Ethernet Emulation) ver 1.3
+Bluetooth: BNEP filters: protocol multicast
+Bluetooth: HIDP (Human Interface Emulation) ver 1.2
+lib80211: common routines for IEEE802.11 drivers
+lib80211_crypt: registered algorithm 'NULL'
+lib80211_crypt: registered algorithm 'WEP'
+lib80211_crypt: registered algorithm 'CCMP'
+lib80211_crypt: registered algorithm 'TKIP'
+VFP support v0.3: implementor 41 architecture 3 part 30 variant 9 rev 4
+Bus freq driver module loaded
+Bus freq driver Enabled
+mxc_dvfs_core_probe
+DVFS driver module loaded
+rtc-pcf8523 2-0068: setting system clock to 2014-02-08 15:05:14 UTC (1391871914)
+Waiting for root device /dev/mmcblk0p1...
+mmc1: host does not support reading read-only switch. assuming write-enable.
+mmc1: new high speed SDHC card at address b368
+mmcblk0: mmc1:b368 00000 3.67 GiB 
+ mmcblk0: p1
+EXT3-fs (mmcblk0p1): error: couldn't mount because of unsupported optional features (240)
+EXT2-fs (mmcblk0p1): error: couldn't mount because of unsupported optional features (240)
+EXT4-fs (mmcblk0p1): mounted filesystem with ordered data mode. Opts: (null)
+VFS: Mounted root (ext4 filesystem) on device 179:1.
+devtmpfs: mounted
+Freeing init memory: 220K
+udevd[1513]: starting version 175
+ehci_fsl_bus_suspend begins, DR
+ehci_fsl_bus_suspend ends, DR
+ehci_fsl_bus_suspend begins, Host 1
+ehci_fsl_bus_suspend ends, Host 1
+EXT4-fs (mmcblk0p1): re-mounted. Opts: (null)
+eth0: Freescale FEC PHY driver [Generic PHY] (mii_bus:phy_addr=1:04, irq=-1)
+PHY: 1:04 - Link is Up - 1000/Full

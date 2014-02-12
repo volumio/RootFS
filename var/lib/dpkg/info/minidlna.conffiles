@@ -1,0 +1,3 @@
+/etc/default/minidlna
+/etc/init.d/minidlna
+/etc/minidlna.conf

@@ -1,0 +1,2234 @@
+[2013/12/02 01:23:34,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[2013/12/02 01:26:09,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[2013/12/02 01:27:01,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[2013/12/02 01:27:18,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[2013/12/02 01:36:47,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[2013/12/02 01:36:50,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[2013/12/02 01:37:41,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[2013/12/02 01:37:58,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[2013/12/02 01:47:41,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[2013/12/02 01:47:43,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[2013/12/02 01:48:35,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[2013/12/02 01:48:51,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[2013/12/02 01:50:01,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[2013/12/02 01:50:03,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[2013/12/02 01:50:55,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[2013/12/02 01:51:11,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[2013/12/02 01:52:20,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[2013/12/02 01:52:23,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[2013/12/02 01:53:15,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[2013/12/02 01:53:32,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[2013/12/02 02:00:08,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[2013/12/02 02:00:11,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[2013/12/02 02:01:05,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[2013/12/02 02:01:22,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/01 00:00:23,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/01 00:00:26,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<20> on subnet 192.168.1.100.
+[1970/01/01 00:00:26,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<20> on subnet 192.168.1.100
+[1970/01/01 00:00:26,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<03> on subnet 192.168.1.100.
+[1970/01/01 00:00:26,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<03> on subnet 192.168.1.100
+[1970/01/01 00:00:26,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<00> on subnet 192.168.1.100.
+[1970/01/01 00:00:26,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<00> on subnet 192.168.1.100
+[1970/01/01 00:01:17,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/01 00:01:19,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<20> on subnet 192.168.1.100.
+[1970/01/01 00:01:19,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<20> on subnet 192.168.1.100
+[1970/01/01 00:01:19,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<03> on subnet 192.168.1.100.
+[1970/01/01 00:01:19,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<03> on subnet 192.168.1.100
+[1970/01/01 00:01:19,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<00> on subnet 192.168.1.100.
+[1970/01/01 00:01:19,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<00> on subnet 192.168.1.100
+[1970/01/01 00:05:17,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.118, reporting an IP address of 192.168.1.118.
+[1970/01/01 00:06:32,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/01 00:06:37,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/01 00:07:43,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/01 00:07:45,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<20> on subnet 192.168.1.100.
+[1970/01/01 00:07:45,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<20> on subnet 192.168.1.100
+[1970/01/01 00:07:45,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<03> on subnet 192.168.1.100.
+[1970/01/01 00:07:45,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<03> on subnet 192.168.1.100
+[1970/01/01 00:07:45,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<00> on subnet 192.168.1.100.
+[1970/01/01 00:07:45,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<00> on subnet 192.168.1.100
+[1970/01/01 00:08:00,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/01 00:08:02,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<20> on subnet 192.168.1.100.
+[1970/01/01 00:08:02,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<20> on subnet 192.168.1.100
+[1970/01/01 00:08:02,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<03> on subnet 192.168.1.100.
+[1970/01/01 00:08:02,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<03> on subnet 192.168.1.100
+[1970/01/01 00:08:02,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<00> on subnet 192.168.1.100.
+[1970/01/01 00:08:02,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<00> on subnet 192.168.1.100
+[1970/01/01 00:11:06,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/01 00:11:11,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/01 00:00:18,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/01 00:00:18,  0] lib/interface.c:520(load_interfaces)
+  ERROR: Could not determine network interfaces, you must use a interfaces config line
+[1970/01/01 00:01:12,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/01 00:01:14,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<20> on subnet 192.168.1.100.
+[1970/01/01 00:01:14,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<20> on subnet 192.168.1.100
+[1970/01/01 00:01:14,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<03> on subnet 192.168.1.100.
+[1970/01/01 00:01:14,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<03> on subnet 192.168.1.100
+[1970/01/01 00:01:14,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<00> on subnet 192.168.1.100.
+[1970/01/01 00:01:14,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<00> on subnet 192.168.1.100
+[1970/01/01 00:02:41,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/01 00:04:37,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/01 00:04:39,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<20> on subnet 192.168.1.100.
+[1970/01/01 00:04:39,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<20> on subnet 192.168.1.100
+[1970/01/01 00:04:39,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<03> on subnet 192.168.1.100.
+[1970/01/01 00:04:39,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<03> on subnet 192.168.1.100
+[1970/01/01 00:04:39,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<00> on subnet 192.168.1.100.
+[1970/01/01 00:04:39,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<00> on subnet 192.168.1.100
+[1970/01/01 00:04:55,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/01 00:04:57,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<20> on subnet 192.168.1.100.
+[1970/01/01 00:04:57,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<20> on subnet 192.168.1.100
+[1970/01/01 00:04:57,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<03> on subnet 192.168.1.100.
+[1970/01/01 00:04:57,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<03> on subnet 192.168.1.100
+[1970/01/01 00:04:57,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<00> on subnet 192.168.1.100.
+[1970/01/01 00:04:57,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<00> on subnet 192.168.1.100
+[1970/01/01 00:09:52,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/01 00:09:56,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/01 00:14:29,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/01 00:14:31,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<20> on subnet 192.168.1.100.
+[1970/01/01 00:14:31,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<20> on subnet 192.168.1.100
+[1970/01/01 00:14:31,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<03> on subnet 192.168.1.100.
+[1970/01/01 00:14:31,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<03> on subnet 192.168.1.100
+[1970/01/01 00:14:31,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<00> on subnet 192.168.1.100.
+[1970/01/01 00:14:31,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<00> on subnet 192.168.1.100
+[1970/01/01 00:15:21,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/01 00:15:23,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<20> on subnet 192.168.1.100.
+[1970/01/01 00:15:23,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<20> on subnet 192.168.1.100
+[1970/01/01 00:15:23,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<03> on subnet 192.168.1.100.
+[1970/01/01 00:15:23,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<03> on subnet 192.168.1.100
+[1970/01/01 00:15:23,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<00> on subnet 192.168.1.100.
+[1970/01/01 00:15:23,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<00> on subnet 192.168.1.100
+[1970/01/01 00:15:37,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/01 00:15:41,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/01 00:18:03,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/01 00:18:05,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<20> on subnet 192.168.1.100.
+[1970/01/01 00:18:05,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<20> on subnet 192.168.1.100
+[1970/01/01 00:18:05,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<03> on subnet 192.168.1.100.
+[1970/01/01 00:18:05,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<03> on subnet 192.168.1.100
+[1970/01/01 00:18:05,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<00> on subnet 192.168.1.100.
+[1970/01/01 00:18:05,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<00> on subnet 192.168.1.100
+[1970/01/01 00:18:21,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/01 00:18:22,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<20> on subnet 192.168.1.100.
+[1970/01/01 00:18:22,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<20> on subnet 192.168.1.100
+[1970/01/01 00:18:22,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<03> on subnet 192.168.1.100.
+[1970/01/01 00:18:22,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<03> on subnet 192.168.1.100
+[1970/01/01 00:18:22,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<00> on subnet 192.168.1.100.
+[1970/01/01 00:18:22,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<00> on subnet 192.168.1.100
+[1970/01/01 00:21:19,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/01 00:21:23,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/01 00:25:52,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/01 00:25:53,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<20> on subnet 192.168.1.100.
+[1970/01/01 00:25:53,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<20> on subnet 192.168.1.100
+[1970/01/01 00:25:53,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<03> on subnet 192.168.1.100.
+[1970/01/01 00:25:53,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<03> on subnet 192.168.1.100
+[1970/01/01 00:25:53,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<00> on subnet 192.168.1.100.
+[1970/01/01 00:25:53,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<00> on subnet 192.168.1.100
+[1970/01/01 00:26:35,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/01 00:26:37,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<20> on subnet 192.168.1.100.
+[1970/01/01 00:26:37,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<20> on subnet 192.168.1.100
+[1970/01/01 00:26:37,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<03> on subnet 192.168.1.100.
+[1970/01/01 00:26:37,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<03> on subnet 192.168.1.100
+[1970/01/01 00:26:37,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<00> on subnet 192.168.1.100.
+[1970/01/01 00:26:37,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<00> on subnet 192.168.1.100
+[1970/01/01 00:41:26,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/01 00:41:30,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/01 00:42:56,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/01 00:42:58,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<20> on subnet 192.168.1.100.
+[1970/01/01 00:42:58,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<20> on subnet 192.168.1.100
+[1970/01/01 00:42:58,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<03> on subnet 192.168.1.100.
+[1970/01/01 00:42:58,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<03> on subnet 192.168.1.100
+[1970/01/01 00:42:58,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<00> on subnet 192.168.1.100.
+[1970/01/01 00:42:58,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<00> on subnet 192.168.1.100
+[1970/01/01 00:43:14,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/01 00:43:16,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<20> on subnet 192.168.1.100.
+[1970/01/01 00:43:16,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<20> on subnet 192.168.1.100
+[1970/01/01 00:43:16,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<03> on subnet 192.168.1.100.
+[1970/01/01 00:43:16,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<03> on subnet 192.168.1.100
+[1970/01/01 00:43:16,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<00> on subnet 192.168.1.100.
+[1970/01/01 00:43:16,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<00> on subnet 192.168.1.100
+[1970/01/01 00:46:07,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/01 00:46:10,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/01 00:47:19,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/01 00:47:21,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<20> on subnet 192.168.1.100.
+[1970/01/01 00:47:21,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<20> on subnet 192.168.1.100
+[1970/01/01 00:47:21,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<03> on subnet 192.168.1.100.
+[1970/01/01 00:47:21,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<03> on subnet 192.168.1.100
+[1970/01/01 00:47:21,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<00> on subnet 192.168.1.100.
+[1970/01/01 00:47:21,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<00> on subnet 192.168.1.100
+[1970/01/01 00:47:37,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/01 00:47:39,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<20> on subnet 192.168.1.100.
+[1970/01/01 00:47:39,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<20> on subnet 192.168.1.100
+[1970/01/01 00:47:39,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<03> on subnet 192.168.1.100.
+[1970/01/01 00:47:39,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<03> on subnet 192.168.1.100
+[1970/01/01 00:47:39,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<00> on subnet 192.168.1.100.
+[1970/01/01 00:47:39,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<00> on subnet 192.168.1.100
+[1970/01/01 00:00:22,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/01 00:00:24,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<20> on subnet 192.168.1.100.
+[1970/01/01 00:00:24,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<20> on subnet 192.168.1.100
+[1970/01/01 00:00:24,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<03> on subnet 192.168.1.100.
+[1970/01/01 00:00:24,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<03> on subnet 192.168.1.100
+[1970/01/01 00:00:24,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<00> on subnet 192.168.1.100.
+[1970/01/01 00:00:24,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<00> on subnet 192.168.1.100
+[1970/01/01 00:00:40,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/01 00:00:42,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<20> on subnet 192.168.1.100.
+[1970/01/01 00:00:42,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<20> on subnet 192.168.1.100
+[1970/01/01 00:00:42,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<03> on subnet 192.168.1.100.
+[1970/01/01 00:00:42,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<03> on subnet 192.168.1.100
+[1970/01/01 00:00:42,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<00> on subnet 192.168.1.100.
+[1970/01/01 00:00:42,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<00> on subnet 192.168.1.100
+[1970/01/01 00:10:12,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.247.1.
+[1970/01/01 00:28:30,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/01 00:28:32,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/01 00:29:46,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/01 00:29:48,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<20> on subnet 192.168.1.100.
+[1970/01/01 00:29:48,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<20> on subnet 192.168.1.100
+[1970/01/01 00:29:48,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<03> on subnet 192.168.1.100.
+[1970/01/01 00:29:48,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<03> on subnet 192.168.1.100
+[1970/01/01 00:29:48,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<00> on subnet 192.168.1.100.
+[1970/01/01 00:29:48,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<00> on subnet 192.168.1.100
+[1970/01/01 00:30:04,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/01 00:30:06,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<20> on subnet 192.168.1.100.
+[1970/01/01 00:30:06,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<20> on subnet 192.168.1.100
+[1970/01/01 00:30:06,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<03> on subnet 192.168.1.100.
+[1970/01/01 00:30:06,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<03> on subnet 192.168.1.100
+[1970/01/01 00:30:06,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<00> on subnet 192.168.1.100.
+[1970/01/01 00:30:06,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<00> on subnet 192.168.1.100
+[1970/01/01 00:46:20,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/01 00:46:23,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/01 00:48:17,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/01 00:48:19,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<20> on subnet 192.168.1.100.
+[1970/01/01 00:48:19,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<20> on subnet 192.168.1.100
+[1970/01/01 00:48:19,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<03> on subnet 192.168.1.100.
+[1970/01/01 00:48:19,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<03> on subnet 192.168.1.100
+[1970/01/01 00:48:19,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<00> on subnet 192.168.1.100.
+[1970/01/01 00:48:19,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<00> on subnet 192.168.1.100
+[1970/01/01 00:48:19,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.247.1.
+[1970/01/01 00:48:34,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/01 00:48:36,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<20> on subnet 192.168.1.100.
+[1970/01/01 00:48:36,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<20> on subnet 192.168.1.100
+[1970/01/01 00:48:36,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<03> on subnet 192.168.1.100.
+[1970/01/01 00:48:36,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<03> on subnet 192.168.1.100
+[1970/01/01 00:48:36,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<00> on subnet 192.168.1.100.
+[1970/01/01 00:48:36,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<00> on subnet 192.168.1.100
+[1970/01/01 01:08:56,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/01 01:08:59,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/01 01:10:11,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/01 01:10:13,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<20> on subnet 192.168.1.100.
+[1970/01/01 01:10:13,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<20> on subnet 192.168.1.100
+[1970/01/01 01:10:13,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<03> on subnet 192.168.1.100.
+[1970/01/01 01:10:13,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<03> on subnet 192.168.1.100
+[1970/01/01 01:10:13,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<00> on subnet 192.168.1.100.
+[1970/01/01 01:10:13,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<00> on subnet 192.168.1.100
+[1970/01/01 01:10:28,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/01 01:10:30,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<20> on subnet 192.168.1.100.
+[1970/01/01 01:10:30,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<20> on subnet 192.168.1.100
+[1970/01/01 01:10:30,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<03> on subnet 192.168.1.100.
+[1970/01/01 01:10:30,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<03> on subnet 192.168.1.100
+[1970/01/01 01:10:30,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<00> on subnet 192.168.1.100.
+[1970/01/01 01:10:30,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<00> on subnet 192.168.1.100
+[1970/01/01 01:35:44,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/01 01:35:47,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/01 01:36:26,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/01 01:36:28,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<20> on subnet 192.168.1.100.
+[1970/01/01 01:36:28,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<20> on subnet 192.168.1.100
+[1970/01/01 01:36:28,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<03> on subnet 192.168.1.100.
+[1970/01/01 01:36:28,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<03> on subnet 192.168.1.100
+[1970/01/01 01:36:28,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<00> on subnet 192.168.1.100.
+[1970/01/01 01:36:28,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<00> on subnet 192.168.1.100
+[1970/01/01 01:36:43,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/01 01:36:45,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<20> on subnet 192.168.1.100.
+[1970/01/01 01:36:45,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<20> on subnet 192.168.1.100
+[1970/01/01 01:36:45,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<03> on subnet 192.168.1.100.
+[1970/01/01 01:36:45,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<03> on subnet 192.168.1.100
+[1970/01/01 01:36:45,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<00> on subnet 192.168.1.100.
+[1970/01/01 01:36:45,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<00> on subnet 192.168.1.100
+[1970/01/01 01:51:51,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/01 01:51:54,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/01 01:52:36,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/01 01:52:38,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.247.1.
+[1970/01/01 01:52:53,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/01 02:00:53,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/01 02:00:56,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/01 02:01:35,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/01 02:01:52,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/01 02:42:16,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.247.1.
+[1970/01/01 02:47:12,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.247.1.
+[1970/01/01 00:00:27,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/01 00:00:45,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/01 00:10:29,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.247.1.
+[1970/01/01 00:30:43,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.247.1.
+[1970/01/01 00:45:45,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.247.1.
+[1970/01/01 01:31:10,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.247.1.
+[1970/01/01 01:56:30,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.247.1.
+[1970/01/01 02:01:30,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.247.1.
+[1970/01/01 02:06:34,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.247.1.
+[1970/01/01 02:11:42,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.247.1.
+[1970/01/01 02:16:32,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.247.1.
+[1970/01/01 02:26:45,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.247.1.
+[1970/01/01 02:41:46,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.247.1.
+[1970/01/01 02:46:54,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.247.1.
+[1970/01/01 02:52:00,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.247.1.
+[1970/01/01 02:57:06,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.247.1.
+[1970/01/01 03:02:14,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.247.1.
+[1970/01/01 03:07:16,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.247.1.
+[1970/01/01 03:27:23,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.247.1.
+[1970/01/01 03:47:26,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.247.1.
+[1970/01/01 03:52:35,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.247.1.
+[1970/01/01 04:12:34,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.247.1.
+[1970/01/01 04:17:36,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.247.1.
+[1970/01/01 04:22:41,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.247.1.
+[1970/01/01 05:43:28,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.247.1.
+[1970/01/01 06:03:34,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.247.1.
+[1970/01/01 06:13:44,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.247.1.
+[1970/01/01 06:29:01,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.247.1.
+[1970/01/01 06:44:12,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.247.1.
+[1970/01/01 06:49:26,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.247.1.
+[1970/01/01 07:04:43,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.247.1.
+[1970/01/01 14:05:34,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.119, reporting an IP address of 192.168.1.119.
+[1970/01/01 14:10:43,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.119, reporting an IP address of 192.168.1.119.
+[1970/01/01 14:15:44,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.119, reporting an IP address of 192.168.1.119.
+[1970/01/01 15:21:41,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.119, reporting an IP address of 192.168.1.119.
+[1970/01/01 15:26:58,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.119, reporting an IP address of 192.168.1.119.
+[1970/01/01 15:52:16,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/01 15:57:16,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/01 16:12:35,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/01 16:22:41,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/01 16:32:53,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/01 16:42:57,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/01 16:58:13,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/01 17:03:15,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/01 17:08:22,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/01 17:18:31,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/01 17:28:23,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/01 18:08:56,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/01 18:49:23,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/01 18:54:26,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/01 19:09:46,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/01 19:14:55,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/01 19:30:14,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/01 20:00:46,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/01 20:10:53,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/01 20:41:24,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/01 20:46:27,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/01 21:01:38,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/01 21:06:39,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/01 21:11:41,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/01 21:16:49,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/01 21:47:06,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/01 21:52:00,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/01 22:07:13,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/01 22:27:33,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/01 22:32:38,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/01 22:48:00,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/01 23:18:17,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/01 23:33:23,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/02 00:18:52,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/02 00:23:54,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/02 00:29:03,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/02 00:54:10,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/02 01:04:28,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/02 01:09:26,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/02 01:14:43,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/02 01:34:55,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/02 01:40:00,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/02 01:55:11,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/02 02:20:22,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/02 02:50:45,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/02 03:36:20,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/02 04:42:03,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/02 04:47:10,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/02 04:52:16,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/02 05:02:06,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/02 05:27:26,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/02 05:47:25,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/02 05:52:34,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/02 05:57:34,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/02 06:07:41,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/02 06:42:52,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/02 06:52:53,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/02 07:08:13,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/02 07:13:15,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/02 07:18:06,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/02 07:38:30,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/02 07:53:36,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/02 14:29:18,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.118, reporting an IP address of 192.168.1.118.
+[1970/01/02 14:34:23,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.118, reporting an IP address of 192.168.1.118.
+[1970/01/02 14:49:41,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.118, reporting an IP address of 192.168.1.118.
+[1970/01/02 14:59:32,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.118, reporting an IP address of 192.168.1.118.
+[1970/01/02 15:04:36,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.118, reporting an IP address of 192.168.1.118.
+[1970/01/02 15:09:45,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.118, reporting an IP address of 192.168.1.118.
+[1970/01/02 15:14:45,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.118, reporting an IP address of 192.168.1.118.
+[1970/01/02 15:19:36,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.118, reporting an IP address of 192.168.1.118.
+[1970/01/02 15:24:47,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.118, reporting an IP address of 192.168.1.118.
+[1970/01/02 15:29:48,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.118, reporting an IP address of 192.168.1.118.
+[1970/01/02 15:34:54,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.118, reporting an IP address of 192.168.1.118.
+[1970/01/02 17:00:22,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.119, reporting an IP address of 192.168.1.119.
+[1970/01/02 17:10:35,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.119, reporting an IP address of 192.168.1.119.
+[1970/01/02 17:15:37,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.119, reporting an IP address of 192.168.1.119.
+[1970/01/02 17:25:45,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.119, reporting an IP address of 192.168.1.119.
+[1970/01/02 17:35:51,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.118, reporting an IP address of 192.168.1.118.
+[1970/01/02 17:51:12,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.118, reporting an IP address of 192.168.1.118.
+[1970/01/02 18:01:15,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.118, reporting an IP address of 192.168.1.118.
+[1970/01/02 18:16:25,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.118, reporting an IP address of 192.168.1.118.
+[1970/01/02 18:26:40,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.118, reporting an IP address of 192.168.1.118.
+[1970/01/02 18:46:45,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.118, reporting an IP address of 192.168.1.118.
+[1970/01/02 18:52:03,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.118, reporting an IP address of 192.168.1.118.
+[1970/01/02 18:56:59,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.118, reporting an IP address of 192.168.1.118.
+[1970/01/02 20:43:28,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/02 20:43:31,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/02 20:53:36,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/02 20:53:53,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/02 21:44:32,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/02 21:44:32,  0] lib/pidfile.c:154(pidfile_create)
+  ERROR: can't open /var/run/samba/nmbd-smb.conf.pid: Error was File exists
+[1970/01/02 23:36:10,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.119, reporting an IP address of 192.168.1.119.
+[1970/01/03 00:01:16,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.119, reporting an IP address of 192.168.1.119.
+[1970/01/03 00:06:18,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.119, reporting an IP address of 192.168.1.119.
+[1970/01/03 00:11:17,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.119, reporting an IP address of 192.168.1.119.
+[1970/01/03 00:21:36,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.119, reporting an IP address of 192.168.1.119.
+[1970/01/03 00:46:47,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.119, reporting an IP address of 192.168.1.119.
+[1970/01/03 01:06:51,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.119, reporting an IP address of 192.168.1.119.
+[1970/01/03 01:47:20,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.119, reporting an IP address of 192.168.1.119.
+[1970/01/03 01:52:23,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.119, reporting an IP address of 192.168.1.119.
+[1970/01/03 01:57:30,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.119, reporting an IP address of 192.168.1.119.
+[1970/01/03 02:02:30,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.119, reporting an IP address of 192.168.1.119.
+[1970/01/03 02:07:22,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.119, reporting an IP address of 192.168.1.119.
+[1970/01/03 02:12:26,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.119, reporting an IP address of 192.168.1.119.
+[1970/01/03 02:22:30,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.119, reporting an IP address of 192.168.1.119.
+[1970/01/03 02:27:32,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.119, reporting an IP address of 192.168.1.119.
+[1970/01/03 02:32:45,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.119, reporting an IP address of 192.168.1.119.
+[1970/01/03 02:37:51,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.119, reporting an IP address of 192.168.1.119.
+[1970/01/03 02:42:52,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.119, reporting an IP address of 192.168.1.119.
+[1970/01/03 03:03:17,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.119, reporting an IP address of 192.168.1.119.
+[1970/01/03 03:18:26,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.119, reporting an IP address of 192.168.1.119.
+[1970/01/03 03:23:40,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.119, reporting an IP address of 192.168.1.119.
+[1970/01/03 03:28:45,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.119, reporting an IP address of 192.168.1.119.
+[1970/01/03 04:14:24,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.118, reporting an IP address of 192.168.1.118.
+[1970/01/03 04:19:24,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.118, reporting an IP address of 192.168.1.118.
+[1970/01/03 04:24:30,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.118, reporting an IP address of 192.168.1.118.
+[1970/01/03 05:04:32,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.118, reporting an IP address of 192.168.1.118.
+[1970/01/03 05:14:46,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.118, reporting an IP address of 192.168.1.118.
+[1970/01/03 06:15:38,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/03 06:25:44,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/03 06:30:44,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/03 06:45:57,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/03 07:11:05,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/03 07:16:13,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/03 07:26:22,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/03 07:46:44,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/03 12:39:22,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.111, reporting an IP address of 192.168.1.111.
+[1970/01/03 12:54:23,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.111, reporting an IP address of 192.168.1.111.
+[1970/01/03 13:04:30,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.111, reporting an IP address of 192.168.1.111.
+[1970/01/03 13:35:10,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.111, reporting an IP address of 192.168.1.111.
+[1970/01/03 13:40:01,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.111, reporting an IP address of 192.168.1.111.
+[1970/01/03 13:50:20,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.111, reporting an IP address of 192.168.1.111.
+[1970/01/03 14:10:37,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.111, reporting an IP address of 192.168.1.111.
+[1970/01/03 14:15:46,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.111, reporting an IP address of 192.168.1.111.
+[1970/01/03 14:25:58,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.111, reporting an IP address of 192.168.1.111.
+[1970/01/03 14:41:21,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.111, reporting an IP address of 192.168.1.111.
+[1970/01/03 15:21:52,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.111, reporting an IP address of 192.168.1.111.
+[1970/01/03 15:32:08,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.111, reporting an IP address of 192.168.1.111.
+[1970/01/03 16:33:10,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.111, reporting an IP address of 192.168.1.111.
+[1970/01/03 16:48:13,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.111, reporting an IP address of 192.168.1.111.
+[1970/01/03 17:03:45,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.111, reporting an IP address of 192.168.1.111.
+[1970/01/03 17:08:54,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.111, reporting an IP address of 192.168.1.111.
+[1970/01/03 17:29:18,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.111, reporting an IP address of 192.168.1.111.
+[1970/01/03 17:39:13,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.111, reporting an IP address of 192.168.1.111.
+[1970/01/03 17:44:28,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.111, reporting an IP address of 192.168.1.111.
+[1970/01/03 18:20:04,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.111, reporting an IP address of 192.168.1.111.
+[1970/01/03 18:25:15,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.111, reporting an IP address of 192.168.1.111.
+[1970/01/03 18:30:17,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.111, reporting an IP address of 192.168.1.111.
+[1970/01/03 18:45:38,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.111, reporting an IP address of 192.168.1.111.
+[1970/01/03 19:00:47,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.111, reporting an IP address of 192.168.1.111.
+[1970/01/03 19:05:38,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.111, reporting an IP address of 192.168.1.111.
+[1970/01/03 19:15:56,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.111, reporting an IP address of 192.168.1.111.
+[1970/01/03 19:20:47,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.111, reporting an IP address of 192.168.1.111.
+[1970/01/03 19:31:09,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.111, reporting an IP address of 192.168.1.111.
+[1970/01/03 19:41:18,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.111, reporting an IP address of 192.168.1.111.
+[1970/01/03 19:56:21,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.111, reporting an IP address of 192.168.1.111.
+[1970/01/03 20:16:46,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/03 20:21:48,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/03 20:26:49,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/03 20:31:58,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/03 20:36:59,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/03 20:42:07,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/03 20:52:15,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/03 20:57:17,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/03 21:28:10,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/03 21:28:13,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/03 21:29:38,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/03 21:29:56,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/03 21:45:09,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/03 21:45:12,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/03 21:47:31,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/03 21:47:33,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/03 21:47:49,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/03 21:54:27,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/03 21:54:30,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/03 21:55:53,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/03 21:56:10,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/03 22:13:38,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/03 22:13:41,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/03 22:19:46,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/03 22:35:36,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/03 22:38:02,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/03 22:53:08,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/03 22:55:21,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/03 22:55:23,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/03 22:56:54,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/03 23:01:13,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/03 23:01:17,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/03 23:02:50,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/03 23:03:08,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/03 23:05:13,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/03 23:05:16,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/03 23:06:21,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/03 23:06:39,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/03 23:08:02,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/03 23:08:05,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/03 23:09:34,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/03 23:09:52,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/03 23:13:04,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/03 23:13:08,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/03 23:14:04,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/03 23:14:21,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/03 23:19:52,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/03 23:19:56,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/03 23:20:50,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/03 23:21:08,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/03 23:22:03,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/03 23:22:03,  0] lib/pidfile.c:154(pidfile_create)
+  ERROR: can't open /var/run/samba/nmbd-smb.conf.pid: Error was File exists
+[1970/01/03 23:23:28,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/03 23:23:28,  0] lib/pidfile.c:154(pidfile_create)
+  ERROR: can't open /var/run/samba/nmbd-smb.conf.pid: Error was File exists
+[1970/01/03 23:28:47,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/03 23:28:51,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/03 23:30:08,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/03 23:30:30,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/03 23:31:15,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/03 23:31:15,  0] lib/pidfile.c:154(pidfile_create)
+  ERROR: can't open /var/run/samba/nmbd-smb.conf.pid: Error was File exists
+[1970/01/03 23:32:51,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/03 23:32:51,  0] lib/pidfile.c:154(pidfile_create)
+  ERROR: can't open /var/run/samba/nmbd-smb.conf.pid: Error was File exists
+[1970/01/03 23:35:59,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/03 23:36:02,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/03 23:37:18,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/03 23:37:36,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/03 23:39:12,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/03 23:39:15,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/03 23:42:22,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/03 23:42:39,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/03 23:46:51,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/03 23:46:55,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/03 23:49:11,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/03 23:49:33,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/03 23:52:32,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/03 23:52:35,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/03 23:53:52,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/03 23:54:09,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 00:00:51,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 00:00:54,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 00:03:30,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 00:03:52,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 00:09:32,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 00:09:35,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 00:13:25,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 00:13:42,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 00:32:06,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 00:32:09,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 00:38:17,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 00:38:34,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 00:46:19,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 00:46:22,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 00:47:56,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 00:49:54,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 00:50:21,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 00:50:24,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 00:51:34,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 00:51:52,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 00:53:27,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 00:53:27,  0] lib/pidfile.c:154(pidfile_create)
+  ERROR: can't open /var/run/samba/nmbd-smb.conf.pid: Error was File exists
+[1970/01/04 00:54:22,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 00:54:22,  0] lib/pidfile.c:154(pidfile_create)
+  ERROR: can't open /var/run/samba/nmbd-smb.conf.pid: Error was File exists
+[1970/01/04 01:03:25,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 01:03:28,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 01:05:14,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 01:05:31,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 01:08:24,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 01:08:27,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 01:10:10,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 01:11:03,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 01:12:42,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 01:12:44,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/04 01:16:14,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 01:17:34,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 01:21:47,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 01:25:10,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 01:25:32,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 01:25:44,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 01:25:47,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 01:29:18,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 01:29:35,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 01:30:30,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 01:30:30,  0] lib/pidfile.c:154(pidfile_create)
+  ERROR: can't open /var/run/samba/nmbd-smb.conf.pid: Error was File exists
+[1970/01/04 01:32:36,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 01:32:36,  0] lib/pidfile.c:154(pidfile_create)
+  ERROR: can't open /var/run/samba/nmbd-smb.conf.pid: Error was File exists
+[1970/01/04 01:35:50,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 01:35:53,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 01:37:08,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 01:37:26,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 01:38:36,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 01:38:39,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 01:40:01,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 01:40:18,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 01:44:58,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 01:45:01,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 01:46:17,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 02:04:38,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 02:08:18,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 02:08:21,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 02:09:56,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 02:10:14,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 02:15:15,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 02:15:18,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 02:16:37,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 02:16:55,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 02:16:57,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/04 02:57:22,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/04 03:48:35,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 03:48:35,  0] lib/pidfile.c:154(pidfile_create)
+  ERROR: can't open /var/run/samba/nmbd-smb.conf.pid: Error was File exists
+[1970/01/04 04:11:47,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 04:11:47,  0] lib/pidfile.c:154(pidfile_create)
+  ERROR: can't open /var/run/samba/nmbd-smb.conf.pid: Error was File exists
+[1970/01/04 04:20:07,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 04:20:10,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 04:21:12,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 04:21:29,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 04:39:36,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 04:39:39,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 04:40:39,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 04:40:56,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 04:47:50,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 04:47:53,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 04:48:50,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 04:49:07,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 04:54:56,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 04:54:59,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 04:56:07,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 04:56:24,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 04:58:05,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 04:58:09,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 04:59:34,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 04:59:52,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 05:03:11,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 05:03:14,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 05:04:20,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 05:04:38,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 05:07:05,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 05:07:08,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 05:08:04,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 05:08:22,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 05:46:37,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 05:46:41,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 05:47:49,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 05:48:06,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 05:49:42,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 05:49:45,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 05:50:56,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 05:51:13,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 05:58:26,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 05:58:29,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 05:59:31,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 05:59:49,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 06:07:14,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 06:07:17,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 06:08:57,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 06:09:14,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 06:24:38,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 06:24:41,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 06:26:21,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 06:26:38,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 06:26:41,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.120, reporting an IP address of 192.168.237.1.
+[1970/01/04 06:31:06,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 06:31:09,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 06:36:07,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 06:36:24,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 06:41:07,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 06:41:10,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 06:42:29,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 06:42:47,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 06:46:20,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 06:46:23,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 06:47:38,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 06:47:56,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 06:49:25,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 06:49:28,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 06:50:45,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 06:51:03,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 06:52:40,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 06:52:43,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 06:54:06,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 06:54:24,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 07:02:44,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 07:02:48,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 07:03:50,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 07:04:08,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 07:11:48,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 07:11:51,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 07:13:14,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 07:13:32,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 07:27:50,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 07:27:53,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 07:30:38,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 07:30:55,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 07:36:30,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 07:36:33,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 07:38:17,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 07:38:34,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 07:56:55,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 07:56:58,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 07:59:15,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 07:59:33,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 08:01:14,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 08:01:17,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 08:03:18,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 08:03:36,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 08:14:12,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 08:14:15,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 08:15:25,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 08:15:43,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 08:22:55,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 08:22:58,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 08:27:12,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 08:27:30,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 17:27:11,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.111, reporting an IP address of 192.168.1.111.
+[1970/01/04 18:12:38,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.111, reporting an IP address of 192.168.1.111.
+[1970/01/04 23:24:02,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 23:24:05,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 23:26:49,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 23:27:06,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 23:30:52,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 23:30:54,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 23:34:00,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 23:34:17,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 23:36:55,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 23:36:59,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 23:38:01,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 23:38:18,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 23:40:26,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 23:40:29,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 23:41:28,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 23:41:45,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 23:43:37,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 23:43:40,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 23:45:00,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 23:45:17,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 23:47:45,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 23:47:48,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 23:49:55,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 23:50:15,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 23:53:20,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 23:53:24,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 23:54:46,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 23:55:03,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 23:57:29,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 23:57:32,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/04 23:58:17,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/04 23:58:34,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/05 00:12:42,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/05 00:12:45,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/05 00:13:43,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/05 00:14:00,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/05 00:19:16,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/05 00:19:19,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/05 00:21:31,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/05 00:21:48,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/05 00:21:50,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.119, reporting an IP address of 192.168.1.119.
+[1970/01/05 00:31:49,  0] libsmb/nmblib.c:856(send_udp)
+  Packet send failed to 192.168.1.255(138) ERRNO=Invalid argument
+[1970/01/05 00:31:49,  0] libsmb/nmblib.c:856(send_udp)
+  Packet send failed to 192.168.1.255(137) ERRNO=Network is unreachable
+[1970/01/05 00:31:49,  0] nmbd/nmbd_packets.c:179(send_netbios_packet)
+  send_netbios_packet: send_packet() to IP 192.168.1.255 port 137 failed
+[1970/01/05 00:31:49,  0] nmbd/nmbd_namequery.c:245(query_name)
+  query_name: Failed to send packet trying to query name WORKGROUP<1d>
+[1970/01/05 00:34:24,  0] nmbd/nmbd.c:331(reload_interfaces)
+  reload_interfaces: No subnets to listen to. Waiting..
+[1970/01/05 00:42:00,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.111, reporting an IP address of 192.168.1.111.
+[1970/01/05 00:43:51,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/05 00:43:51,  0] lib/pidfile.c:154(pidfile_create)
+  ERROR: can't open /var/run/samba/nmbd-smb.conf.pid: Error was File exists
+[1970/01/05 00:44:21,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/05 00:44:24,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/05 00:46:25,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/05 00:46:42,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/05 00:50:04,  0] libsmb/nmblib.c:856(send_udp)
+  Packet send failed to 192.168.1.255(138) ERRNO=Invalid argument
+[1970/01/05 00:51:04,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/05 00:51:08,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/05 00:53:31,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/05 00:53:48,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/05 00:56:53,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/05 00:56:56,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/05 00:59:05,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/05 00:59:22,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/05 01:03:02,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/05 01:03:05,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/05 01:05:06,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/05 01:05:24,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/05 01:08:43,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/05 01:08:47,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/05 01:10:43,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/05 01:11:00,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/05 01:14:18,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/05 01:14:21,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/05 01:15:41,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/05 01:15:58,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/05 01:21:41,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/05 01:21:44,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/05 01:23:52,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/05 01:24:10,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/05 01:32:49,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/05 01:32:52,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/05 01:34:49,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/05 01:35:06,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/05 01:40:42,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/05 01:40:46,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/05 01:42:48,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/05 01:43:06,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/05 01:54:19,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/05 01:54:22,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/05 01:56:16,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/05 01:56:33,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/05 01:57:57,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/05 01:58:00,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/01 00:01:16,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/01 00:01:17,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<20> on subnet 192.168.1.100.
+[1970/01/01 00:01:17,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<20> on subnet 192.168.1.100
+[1970/01/01 00:01:25,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/01 00:01:27,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<20> on subnet 192.168.1.100.
+[1970/01/01 00:01:27,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<20> on subnet 192.168.1.100
+[1970/01/01 00:01:27,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<03> on subnet 192.168.1.100.
+[1970/01/01 00:01:27,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<03> on subnet 192.168.1.100
+[1970/01/01 00:01:27,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<00> on subnet 192.168.1.100.
+[1970/01/01 00:01:27,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<00> on subnet 192.168.1.100
+[1970/01/01 00:01:43,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/01 00:01:45,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<20> on subnet 192.168.1.100.
+[1970/01/01 00:01:45,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<20> on subnet 192.168.1.100
+[1970/01/01 00:01:45,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<03> on subnet 192.168.1.100.
+[1970/01/01 00:01:45,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<03> on subnet 192.168.1.100
+[1970/01/01 00:01:45,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<00> on subnet 192.168.1.100.
+[1970/01/01 00:01:45,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<00> on subnet 192.168.1.100
+[1970/01/01 00:03:27,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/01 00:03:30,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/01 00:06:05,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/01 00:06:08,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<20> on subnet 192.168.1.100.
+[1970/01/01 00:06:08,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<20> on subnet 192.168.1.100
+[1970/01/01 00:06:08,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<03> on subnet 192.168.1.100.
+[1970/01/01 00:06:08,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<03> on subnet 192.168.1.100
+[1970/01/01 00:06:08,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<00> on subnet 192.168.1.100.
+[1970/01/01 00:06:08,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<00> on subnet 192.168.1.100
+[1970/01/01 00:06:23,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/01 00:06:25,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<20> on subnet 192.168.1.100.
+[1970/01/01 00:06:25,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<20> on subnet 192.168.1.100
+[1970/01/01 00:06:25,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<03> on subnet 192.168.1.100.
+[1970/01/01 00:06:25,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<03> on subnet 192.168.1.100
+[1970/01/01 00:06:25,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<00> on subnet 192.168.1.100.
+[1970/01/01 00:06:25,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<00> on subnet 192.168.1.100
+[1970/01/01 00:00:24,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/01 00:00:26,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<20> on subnet 192.168.1.100.
+[1970/01/01 00:00:26,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<20> on subnet 192.168.1.100
+[1970/01/01 00:00:26,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<03> on subnet 192.168.1.100.
+[1970/01/01 00:00:26,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<03> on subnet 192.168.1.100
+[1970/01/01 00:00:26,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<00> on subnet 192.168.1.100.
+[1970/01/01 00:00:26,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<00> on subnet 192.168.1.100
+[1970/01/01 00:01:54,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/01 00:04:38,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/01 00:04:40,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<20> on subnet 192.168.1.100.
+[1970/01/01 00:04:40,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<20> on subnet 192.168.1.100
+[1970/01/01 00:04:40,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<03> on subnet 192.168.1.100.
+[1970/01/01 00:04:40,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<03> on subnet 192.168.1.100
+[1970/01/01 00:04:40,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<00> on subnet 192.168.1.100.
+[1970/01/01 00:04:40,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<00> on subnet 192.168.1.100
+[1970/01/01 00:08:29,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/01 00:12:51,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/01 00:12:53,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<20> on subnet 192.168.1.100.
+[1970/01/01 00:12:53,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<20> on subnet 192.168.1.100
+[1970/01/01 00:12:53,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<03> on subnet 192.168.1.100.
+[1970/01/01 00:12:53,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<03> on subnet 192.168.1.100
+[1970/01/01 00:12:53,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<00> on subnet 192.168.1.100.
+[1970/01/01 00:12:53,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<00> on subnet 192.168.1.100
+[1970/01/01 00:13:08,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/01 00:13:10,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<20> on subnet 192.168.1.100.
+[1970/01/01 00:13:10,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<20> on subnet 192.168.1.100
+[1970/01/01 00:13:10,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<03> on subnet 192.168.1.100.
+[1970/01/01 00:13:10,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<03> on subnet 192.168.1.100
+[1970/01/01 00:13:10,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<00> on subnet 192.168.1.100.
+[1970/01/01 00:13:10,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<00> on subnet 192.168.1.100
+[1970/01/01 00:17:08,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/01 00:17:11,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[1970/01/01 00:23:07,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/01 00:23:09,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<20> on subnet 192.168.1.100.
+[1970/01/01 00:23:09,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<20> on subnet 192.168.1.100
+[1970/01/01 00:23:09,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<03> on subnet 192.168.1.100.
+[1970/01/01 00:23:09,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<03> on subnet 192.168.1.100
+[1970/01/01 00:23:09,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<00> on subnet 192.168.1.100.
+[1970/01/01 00:23:09,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<00> on subnet 192.168.1.100
+[1970/01/01 00:23:25,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/01 00:23:27,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<20> on subnet 192.168.1.100.
+[1970/01/01 00:23:27,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<20> on subnet 192.168.1.100
+[1970/01/01 00:23:27,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<03> on subnet 192.168.1.100.
+[1970/01/01 00:23:27,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<03> on subnet 192.168.1.100
+[1970/01/01 00:23:27,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<00> on subnet 192.168.1.100.
+[1970/01/01 00:23:27,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<00> on subnet 192.168.1.100
+[1970/01/01 00:00:26,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/01 00:00:28,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<20> on subnet 192.168.1.100.
+[1970/01/01 00:00:28,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<20> on subnet 192.168.1.100
+[1970/01/01 00:00:28,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<03> on subnet 192.168.1.100.
+[1970/01/01 00:00:28,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<03> on subnet 192.168.1.100
+[1970/01/01 00:00:28,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<00> on subnet 192.168.1.100.
+[1970/01/01 00:00:28,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<00> on subnet 192.168.1.100
+[1970/01/01 00:00:44,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[1970/01/01 00:00:46,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<20> on subnet 192.168.1.100.
+[1970/01/01 00:00:46,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<20> on subnet 192.168.1.100
+[1970/01/01 00:00:46,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<03> on subnet 192.168.1.100.
+[1970/01/01 00:00:46,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<03> on subnet 192.168.1.100
+[1970/01/01 00:00:46,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<00> on subnet 192.168.1.100.
+[1970/01/01 00:00:46,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<00> on subnet 192.168.1.100
+[1970/01/01 00:20:34,  0] nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.100 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.111, reporting an IP address of 192.168.1.111.
+[2014/02/08 15:06:35,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[2014/02/08 15:06:37,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<20> on subnet 192.168.1.129.
+[2014/02/08 15:06:37,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<20> on subnet 192.168.1.129
+[2014/02/08 15:06:37,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<03> on subnet 192.168.1.129.
+[2014/02/08 15:06:37,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<03> on subnet 192.168.1.129
+[2014/02/08 15:06:37,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<00> on subnet 192.168.1.129.
+[2014/02/08 15:06:37,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<00> on subnet 192.168.1.129
+[2014/02/08 15:11:33,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...
+[2014/02/08 15:12:04,  0] nmbd/nmbd.c:861(main)
+  nmbd version 3.6.6 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2011
+[2014/02/08 15:12:06,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<20> on subnet 192.168.1.129.
+[2014/02/08 15:12:06,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<20> on subnet 192.168.1.129
+[2014/02/08 15:12:06,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<03> on subnet 192.168.1.129.
+[2014/02/08 15:12:06,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<03> on subnet 192.168.1.129
+[2014/02/08 15:12:06,  0] nmbd/nmbd_mynames.c:36(my_name_register_failed)
+  my_name_register_failed: Failed to register my name VOLUMIO<00> on subnet 192.168.1.129.
+[2014/02/08 15:12:06,  0] nmbd/nmbd_namelistdb.c:309(standard_fail_register)
+  standard_fail_register: Failed to register/refresh name VOLUMIO<00> on subnet 192.168.1.129
+[2014/02/08 15:17:29,  0] nmbd/nmbd.c:66(terminate)
+  Got SIGTERM: going down...

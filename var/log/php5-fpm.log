@@ -1,0 +1,727 @@
+[28-Aug-2013 09:51:15] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[28-Aug-2013 09:51:15] NOTICE: fpm is running, pid 2278
+[28-Aug-2013 09:51:15] NOTICE: ready to handle connections
+[28-Aug-2013 10:54:32] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[28-Aug-2013 10:54:32] NOTICE: fpm is running, pid 2284
+[28-Aug-2013 10:54:32] NOTICE: ready to handle connections
+[28-Aug-2013 10:57:57] NOTICE: Finishing ...
+[28-Aug-2013 10:57:57] NOTICE: exiting, bye-bye!
+[28-Aug-2013 10:57:58] NOTICE: fpm is running, pid 2787
+[28-Aug-2013 10:57:58] NOTICE: ready to handle connections
+[28-Aug-2013 11:02:48] WARNING: [pool display] seems busy (you may need to increase pm.start_servers, or pm.min/max_spare_servers), spawning 8 children, there are 0 idle, and 6 total children
+[28-Aug-2013 11:02:55] NOTICE: Finishing ...
+[28-Aug-2013 11:02:55] NOTICE: exiting, bye-bye!
+[28-Aug-2013 11:02:56] NOTICE: fpm is running, pid 3809
+[28-Aug-2013 11:02:56] NOTICE: ready to handle connections
+[28-Aug-2013 11:03:07] NOTICE: Finishing ...
+[28-Aug-2013 11:03:07] NOTICE: exiting, bye-bye!
+[28-Aug-2013 11:03:55] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[28-Aug-2013 11:03:55] NOTICE: fpm is running, pid 2358
+[28-Aug-2013 11:03:55] NOTICE: ready to handle connections
+[02-Dec-2013 01:03:43] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[02-Dec-2013 01:03:43] NOTICE: fpm is running, pid 2474
+[02-Dec-2013 01:03:43] NOTICE: ready to handle connections
+[02-Dec-2013 01:04:02] NOTICE: Finishing ...
+[02-Dec-2013 01:04:02] NOTICE: exiting, bye-bye!
+[02-Dec-2013 01:04:02] NOTICE: fpm is running, pid 2675
+[02-Dec-2013 01:04:03] NOTICE: ready to handle connections
+[02-Dec-2013 01:11:40] NOTICE: Finishing ...
+[02-Dec-2013 01:11:40] NOTICE: exiting, bye-bye!
+[02-Dec-2013 01:12:30] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[02-Dec-2013 01:12:30] NOTICE: fpm is running, pid 2361
+[02-Dec-2013 01:12:30] NOTICE: ready to handle connections
+[02-Dec-2013 01:15:39] NOTICE: Finishing ...
+[02-Dec-2013 01:15:39] NOTICE: exiting, bye-bye!
+[02-Dec-2013 01:16:29] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[02-Dec-2013 01:16:29] NOTICE: fpm is running, pid 2362
+[02-Dec-2013 01:16:29] NOTICE: ready to handle connections
+[02-Dec-2013 01:17:47] NOTICE: Finishing ...
+[02-Dec-2013 01:17:47] NOTICE: exiting, bye-bye!
+[02-Dec-2013 01:18:35] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[02-Dec-2013 01:18:35] NOTICE: fpm is running, pid 2360
+[02-Dec-2013 01:18:35] NOTICE: ready to handle connections
+[02-Dec-2013 01:19:16] NOTICE: Finishing ...
+[02-Dec-2013 01:19:16] NOTICE: exiting, bye-bye!
+[02-Dec-2013 01:19:17] NOTICE: fpm is running, pid 2807
+[02-Dec-2013 01:19:17] NOTICE: ready to handle connections
+[02-Dec-2013 01:26:09] NOTICE: Finishing ...
+[02-Dec-2013 01:26:09] NOTICE: exiting, bye-bye!
+[02-Dec-2013 01:27:00] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[02-Dec-2013 01:27:00] NOTICE: fpm is running, pid 2697
+[02-Dec-2013 01:27:00] NOTICE: ready to handle connections
+[02-Dec-2013 01:36:47] NOTICE: Finishing ...
+[02-Dec-2013 01:36:47] NOTICE: exiting, bye-bye!
+[02-Dec-2013 01:37:41] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[02-Dec-2013 01:37:41] NOTICE: fpm is running, pid 2697
+[02-Dec-2013 01:37:41] NOTICE: ready to handle connections
+[02-Dec-2013 01:47:41] NOTICE: Finishing ...
+[02-Dec-2013 01:47:41] NOTICE: exiting, bye-bye!
+[02-Dec-2013 01:48:34] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[02-Dec-2013 01:48:34] NOTICE: fpm is running, pid 2672
+[02-Dec-2013 01:48:34] NOTICE: ready to handle connections
+[02-Dec-2013 01:50:01] NOTICE: Finishing ...
+[02-Dec-2013 01:50:01] NOTICE: exiting, bye-bye!
+[02-Dec-2013 01:50:54] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[02-Dec-2013 01:50:55] NOTICE: fpm is running, pid 2683
+[02-Dec-2013 01:50:55] NOTICE: ready to handle connections
+[02-Dec-2013 01:52:20] NOTICE: Finishing ...
+[02-Dec-2013 01:52:20] NOTICE: exiting, bye-bye!
+[02-Dec-2013 01:53:14] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[02-Dec-2013 01:53:15] NOTICE: fpm is running, pid 2691
+[02-Dec-2013 01:53:15] NOTICE: ready to handle connections
+[02-Dec-2013 02:00:08] NOTICE: Finishing ...
+[02-Dec-2013 02:00:08] NOTICE: exiting, bye-bye!
+[02-Dec-2013 02:01:05] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[02-Dec-2013 02:01:05] NOTICE: fpm is running, pid 2714
+[02-Dec-2013 02:01:05] NOTICE: ready to handle connections
+[02-Dec-2013 02:13:52] NOTICE: Finishing ...
+[02-Dec-2013 02:13:52] NOTICE: exiting, bye-bye!
+[02-Dec-2013 02:13:52] NOTICE: fpm is running, pid 3444
+[02-Dec-2013 02:13:52] NOTICE: ready to handle connections
+[01-Jan-1970 00:00:23] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[01-Jan-1970 00:00:24] NOTICE: fpm is running, pid 3938
+[01-Jan-1970 00:00:24] NOTICE: ready to handle connections
+[01-Jan-1970 00:06:32] NOTICE: Finishing ...
+[01-Jan-1970 00:06:32] NOTICE: exiting, bye-bye!
+[01-Jan-1970 00:07:43] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[01-Jan-1970 00:07:43] NOTICE: fpm is running, pid 3797
+[01-Jan-1970 00:07:43] NOTICE: ready to handle connections
+[01-Jan-1970 00:11:06] NOTICE: Finishing ...
+[01-Jan-1970 00:11:06] NOTICE: exiting, bye-bye!
+[01-Jan-1970 00:00:18] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[01-Jan-1970 00:00:18] ERROR: unable to bind listening socket for address '127.0.0.1:9001': Cannot assign requested address (99)
+[01-Jan-1970 00:00:18] ERROR: FPM initialization failed
+[01-Jan-1970 00:04:38] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[01-Jan-1970 00:04:38] NOTICE: fpm is running, pid 3806
+[01-Jan-1970 00:04:38] NOTICE: ready to handle connections
+[01-Jan-1970 00:09:22] NOTICE: Finishing ...
+[01-Jan-1970 00:09:22] NOTICE: exiting, bye-bye!
+[01-Jan-1970 00:09:22] NOTICE: fpm is running, pid 4124
+[01-Jan-1970 00:09:22] NOTICE: ready to handle connections
+[01-Jan-1970 00:09:29] NOTICE: Finishing ...
+[01-Jan-1970 00:09:29] NOTICE: exiting, bye-bye!
+[01-Jan-1970 00:09:29] NOTICE: fpm is running, pid 4147
+[01-Jan-1970 00:09:29] NOTICE: ready to handle connections
+[01-Jan-1970 00:09:52] NOTICE: Finishing ...
+[01-Jan-1970 00:09:52] NOTICE: exiting, bye-bye!
+[01-Jan-1970 00:14:29] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[01-Jan-1970 00:14:29] NOTICE: fpm is running, pid 3771
+[01-Jan-1970 00:14:29] NOTICE: ready to handle connections
+[01-Jan-1970 00:15:37] NOTICE: Finishing ...
+[01-Jan-1970 00:15:37] NOTICE: exiting, bye-bye!
+[01-Jan-1970 00:18:03] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[01-Jan-1970 00:18:04] NOTICE: fpm is running, pid 3815
+[01-Jan-1970 00:18:04] NOTICE: ready to handle connections
+[01-Jan-1970 00:21:19] NOTICE: Finishing ...
+[01-Jan-1970 00:21:19] NOTICE: exiting, bye-bye!
+[01-Jan-1970 00:25:52] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[01-Jan-1970 00:25:52] NOTICE: fpm is running, pid 3783
+[01-Jan-1970 00:25:52] NOTICE: ready to handle connections
+[01-Jan-1970 00:41:26] NOTICE: Finishing ...
+[01-Jan-1970 00:41:26] NOTICE: exiting, bye-bye!
+[01-Jan-1970 00:42:56] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[01-Jan-1970 00:42:57] NOTICE: fpm is running, pid 3788
+[01-Jan-1970 00:42:57] NOTICE: ready to handle connections
+[01-Jan-1970 00:46:07] NOTICE: Finishing ...
+[01-Jan-1970 00:46:07] NOTICE: exiting, bye-bye!
+[01-Jan-1970 00:47:19] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[01-Jan-1970 00:47:19] NOTICE: fpm is running, pid 3778
+[01-Jan-1970 00:47:19] NOTICE: ready to handle connections
+[01-Jan-1970 00:00:22] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[01-Jan-1970 00:00:22] NOTICE: fpm is running, pid 3802
+[01-Jan-1970 00:00:22] NOTICE: ready to handle connections
+[01-Jan-1970 00:28:30] NOTICE: Finishing ...
+[01-Jan-1970 00:28:30] NOTICE: exiting, bye-bye!
+[01-Jan-1970 00:29:46] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[01-Jan-1970 00:29:46] NOTICE: fpm is running, pid 3844
+[01-Jan-1970 00:29:46] NOTICE: ready to handle connections
+[01-Jan-1970 00:46:19] NOTICE: Finishing ...
+[01-Jan-1970 00:46:19] NOTICE: exiting, bye-bye!
+[01-Jan-1970 00:48:17] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[01-Jan-1970 00:48:17] NOTICE: fpm is running, pid 3863
+[01-Jan-1970 00:48:17] NOTICE: ready to handle connections
+[01-Jan-1970 01:08:56] NOTICE: Finishing ...
+[01-Jan-1970 01:08:56] NOTICE: exiting, bye-bye!
+[01-Jan-1970 01:10:11] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[01-Jan-1970 01:10:11] NOTICE: fpm is running, pid 3784
+[01-Jan-1970 01:10:11] NOTICE: ready to handle connections
+[01-Jan-1970 01:35:44] NOTICE: Finishing ...
+[01-Jan-1970 01:35:44] NOTICE: exiting, bye-bye!
+[01-Jan-1970 01:36:26] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[01-Jan-1970 01:36:26] NOTICE: fpm is running, pid 3801
+[01-Jan-1970 01:36:26] NOTICE: ready to handle connections
+[01-Jan-1970 01:51:51] NOTICE: Finishing ...
+[01-Jan-1970 01:51:51] NOTICE: exiting, bye-bye!
+[01-Jan-1970 01:52:36] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[01-Jan-1970 01:52:36] NOTICE: fpm is running, pid 3779
+[01-Jan-1970 01:52:36] NOTICE: ready to handle connections
+[01-Jan-1970 02:00:53] NOTICE: Finishing ...
+[01-Jan-1970 02:00:53] NOTICE: exiting, bye-bye!
+[01-Jan-1970 02:01:35] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[01-Jan-1970 02:01:35] NOTICE: fpm is running, pid 3646
+[01-Jan-1970 02:01:35] NOTICE: ready to handle connections
+[01-Jan-1970 00:00:28] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[01-Jan-1970 00:00:28] NOTICE: fpm is running, pid 3822
+[01-Jan-1970 00:00:28] NOTICE: ready to handle connections
+[02-Jan-1970 20:43:28] NOTICE: Finishing ...
+[02-Jan-1970 20:43:28] NOTICE: exiting, bye-bye!
+[02-Jan-1970 20:53:36] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[02-Jan-1970 20:53:36] NOTICE: fpm is running, pid 3816
+[02-Jan-1970 20:53:36] NOTICE: ready to handle connections
+[02-Jan-1970 21:44:17] NOTICE: Finishing ...
+[02-Jan-1970 21:44:17] NOTICE: exiting, bye-bye!
+[02-Jan-1970 21:44:17] NOTICE: fpm is running, pid 5079
+[02-Jan-1970 21:44:17] NOTICE: ready to handle connections
+[03-Jan-1970 21:28:10] NOTICE: Finishing ...
+[03-Jan-1970 21:28:10] NOTICE: exiting, bye-bye!
+[03-Jan-1970 21:29:38] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[03-Jan-1970 21:29:38] NOTICE: fpm is running, pid 3773
+[03-Jan-1970 21:29:38] NOTICE: ready to handle connections
+[03-Jan-1970 21:45:09] NOTICE: Finishing ...
+[03-Jan-1970 21:45:09] NOTICE: exiting, bye-bye!
+[03-Jan-1970 21:47:31] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[03-Jan-1970 21:47:31] NOTICE: fpm is running, pid 3803
+[03-Jan-1970 21:47:32] NOTICE: ready to handle connections
+[03-Jan-1970 21:54:27] NOTICE: Finishing ...
+[03-Jan-1970 21:54:27] NOTICE: exiting, bye-bye!
+[03-Jan-1970 21:55:53] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[03-Jan-1970 21:55:53] NOTICE: fpm is running, pid 3822
+[03-Jan-1970 21:55:53] NOTICE: ready to handle connections
+[03-Jan-1970 22:13:38] NOTICE: Finishing ...
+[03-Jan-1970 22:13:38] NOTICE: exiting, bye-bye!
+[03-Jan-1970 22:19:45] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[03-Jan-1970 22:19:45] NOTICE: fpm is running, pid 3794
+[03-Jan-1970 22:19:45] NOTICE: ready to handle connections
+[03-Jan-1970 22:35:36] NOTICE: Finishing ...
+[03-Jan-1970 22:35:36] NOTICE: exiting, bye-bye!
+[03-Jan-1970 22:38:02] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[03-Jan-1970 22:38:02] NOTICE: fpm is running, pid 3785
+[03-Jan-1970 22:38:02] NOTICE: ready to handle connections
+[03-Jan-1970 22:53:08] NOTICE: Finishing ...
+[03-Jan-1970 22:53:08] NOTICE: exiting, bye-bye!
+[03-Jan-1970 22:55:21] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[03-Jan-1970 22:55:21] NOTICE: fpm is running, pid 3834
+[03-Jan-1970 22:55:21] NOTICE: ready to handle connections
+[03-Jan-1970 23:01:13] NOTICE: Finishing ...
+[03-Jan-1970 23:01:13] NOTICE: exiting, bye-bye!
+[03-Jan-1970 23:02:50] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[03-Jan-1970 23:02:50] NOTICE: fpm is running, pid 3778
+[03-Jan-1970 23:02:50] NOTICE: ready to handle connections
+[03-Jan-1970 23:05:13] NOTICE: Finishing ...
+[03-Jan-1970 23:05:13] NOTICE: exiting, bye-bye!
+[03-Jan-1970 23:06:22] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[03-Jan-1970 23:06:22] NOTICE: fpm is running, pid 3810
+[03-Jan-1970 23:06:22] NOTICE: ready to handle connections
+[03-Jan-1970 23:08:02] NOTICE: Finishing ...
+[03-Jan-1970 23:08:02] NOTICE: exiting, bye-bye!
+[03-Jan-1970 23:09:34] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[03-Jan-1970 23:09:34] NOTICE: fpm is running, pid 3566
+[03-Jan-1970 23:09:34] NOTICE: ready to handle connections
+[03-Jan-1970 23:13:04] NOTICE: Finishing ...
+[03-Jan-1970 23:13:04] NOTICE: exiting, bye-bye!
+[03-Jan-1970 23:14:04] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[03-Jan-1970 23:14:04] NOTICE: fpm is running, pid 3823
+[03-Jan-1970 23:14:04] NOTICE: ready to handle connections
+[03-Jan-1970 23:19:52] NOTICE: Finishing ...
+[03-Jan-1970 23:19:52] NOTICE: exiting, bye-bye!
+[03-Jan-1970 23:20:51] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[03-Jan-1970 23:20:51] NOTICE: fpm is running, pid 3823
+[03-Jan-1970 23:20:51] NOTICE: ready to handle connections
+[03-Jan-1970 23:28:47] NOTICE: Finishing ...
+[03-Jan-1970 23:28:47] NOTICE: exiting, bye-bye!
+[03-Jan-1970 23:30:08] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[03-Jan-1970 23:30:08] NOTICE: fpm is running, pid 3786
+[03-Jan-1970 23:30:08] NOTICE: ready to handle connections
+[03-Jan-1970 23:35:59] NOTICE: Finishing ...
+[03-Jan-1970 23:35:59] NOTICE: exiting, bye-bye!
+[03-Jan-1970 23:37:19] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[03-Jan-1970 23:37:19] NOTICE: fpm is running, pid 3867
+[03-Jan-1970 23:37:19] NOTICE: ready to handle connections
+[03-Jan-1970 23:39:12] NOTICE: Finishing ...
+[03-Jan-1970 23:39:12] NOTICE: exiting, bye-bye!
+[03-Jan-1970 23:42:21] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[03-Jan-1970 23:42:21] NOTICE: fpm is running, pid 3573
+[03-Jan-1970 23:42:22] NOTICE: ready to handle connections
+[03-Jan-1970 23:46:51] NOTICE: Finishing ...
+[03-Jan-1970 23:46:51] NOTICE: exiting, bye-bye!
+[03-Jan-1970 23:49:11] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[03-Jan-1970 23:49:11] NOTICE: fpm is running, pid 3776
+[03-Jan-1970 23:49:11] NOTICE: ready to handle connections
+[03-Jan-1970 23:52:32] NOTICE: Finishing ...
+[03-Jan-1970 23:52:32] NOTICE: exiting, bye-bye!
+[03-Jan-1970 23:53:52] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[03-Jan-1970 23:53:52] NOTICE: fpm is running, pid 3804
+[03-Jan-1970 23:53:52] NOTICE: ready to handle connections
+[04-Jan-1970 00:00:51] NOTICE: Finishing ...
+[04-Jan-1970 00:00:51] NOTICE: exiting, bye-bye!
+[04-Jan-1970 00:03:30] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[04-Jan-1970 00:03:30] NOTICE: fpm is running, pid 3782
+[04-Jan-1970 00:03:30] NOTICE: ready to handle connections
+[04-Jan-1970 00:09:32] NOTICE: Finishing ...
+[04-Jan-1970 00:09:32] NOTICE: exiting, bye-bye!
+[04-Jan-1970 00:13:24] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[04-Jan-1970 00:13:24] NOTICE: fpm is running, pid 3789
+[04-Jan-1970 00:13:24] NOTICE: ready to handle connections
+[04-Jan-1970 00:32:06] NOTICE: Finishing ...
+[04-Jan-1970 00:32:06] NOTICE: exiting, bye-bye!
+[04-Jan-1970 00:38:16] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[04-Jan-1970 00:38:17] NOTICE: fpm is running, pid 3794
+[04-Jan-1970 00:38:17] NOTICE: ready to handle connections
+[04-Jan-1970 00:46:19] NOTICE: Finishing ...
+[04-Jan-1970 00:46:19] NOTICE: exiting, bye-bye!
+[04-Jan-1970 00:47:56] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[04-Jan-1970 00:47:56] NOTICE: fpm is running, pid 3817
+[04-Jan-1970 00:47:56] NOTICE: ready to handle connections
+[04-Jan-1970 00:50:21] NOTICE: Finishing ...
+[04-Jan-1970 00:50:21] NOTICE: exiting, bye-bye!
+[04-Jan-1970 00:51:35] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[04-Jan-1970 00:51:35] NOTICE: fpm is running, pid 3822
+[04-Jan-1970 00:51:35] NOTICE: ready to handle connections
+[04-Jan-1970 01:03:25] NOTICE: Finishing ...
+[04-Jan-1970 01:03:25] NOTICE: exiting, bye-bye!
+[04-Jan-1970 01:05:13] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[04-Jan-1970 01:05:13] NOTICE: fpm is running, pid 3779
+[04-Jan-1970 01:05:13] NOTICE: ready to handle connections
+[04-Jan-1970 01:08:23] NOTICE: Finishing ...
+[04-Jan-1970 01:08:23] NOTICE: exiting, bye-bye!
+[04-Jan-1970 01:10:10] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[04-Jan-1970 01:10:10] NOTICE: fpm is running, pid 3792
+[04-Jan-1970 01:10:10] NOTICE: ready to handle connections
+[04-Jan-1970 01:11:03] NOTICE: Finishing ...
+[04-Jan-1970 01:11:03] NOTICE: exiting, bye-bye!
+[04-Jan-1970 01:12:42] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[04-Jan-1970 01:12:42] NOTICE: fpm is running, pid 3783
+[04-Jan-1970 01:12:42] NOTICE: ready to handle connections
+[04-Jan-1970 01:16:14] NOTICE: Finishing ...
+[04-Jan-1970 01:16:14] NOTICE: exiting, bye-bye!
+[04-Jan-1970 01:17:34] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[04-Jan-1970 01:17:34] NOTICE: fpm is running, pid 3775
+[04-Jan-1970 01:17:34] NOTICE: ready to handle connections
+[04-Jan-1970 01:21:47] NOTICE: Finishing ...
+[04-Jan-1970 01:21:47] NOTICE: exiting, bye-bye!
+[04-Jan-1970 01:25:11] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[04-Jan-1970 01:25:12] NOTICE: fpm is running, pid 3838
+[04-Jan-1970 01:25:12] NOTICE: ready to handle connections
+[04-Jan-1970 01:25:44] NOTICE: Finishing ...
+[04-Jan-1970 01:25:44] NOTICE: exiting, bye-bye!
+[04-Jan-1970 01:29:17] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[04-Jan-1970 01:29:18] NOTICE: fpm is running, pid 3796
+[04-Jan-1970 01:29:18] NOTICE: ready to handle connections
+[04-Jan-1970 01:35:50] NOTICE: Finishing ...
+[04-Jan-1970 01:35:50] NOTICE: exiting, bye-bye!
+[04-Jan-1970 01:37:08] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[04-Jan-1970 01:37:08] NOTICE: fpm is running, pid 3774
+[04-Jan-1970 01:37:09] NOTICE: ready to handle connections
+[04-Jan-1970 01:38:36] NOTICE: Finishing ...
+[04-Jan-1970 01:38:36] NOTICE: exiting, bye-bye!
+[04-Jan-1970 01:40:01] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[04-Jan-1970 01:40:01] NOTICE: fpm is running, pid 3831
+[04-Jan-1970 01:40:01] NOTICE: ready to handle connections
+[04-Jan-1970 01:44:58] NOTICE: Finishing ...
+[04-Jan-1970 01:44:58] NOTICE: exiting, bye-bye!
+[04-Jan-1970 01:46:18] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[04-Jan-1970 01:46:18] NOTICE: fpm is running, pid 3861
+[04-Jan-1970 01:46:18] NOTICE: ready to handle connections
+[04-Jan-1970 02:08:18] NOTICE: Finishing ...
+[04-Jan-1970 02:08:18] NOTICE: exiting, bye-bye!
+[04-Jan-1970 02:09:56] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[04-Jan-1970 02:09:57] NOTICE: fpm is running, pid 3786
+[04-Jan-1970 02:09:57] NOTICE: ready to handle connections
+[04-Jan-1970 02:15:15] NOTICE: Finishing ...
+[04-Jan-1970 02:15:15] NOTICE: exiting, bye-bye!
+[04-Jan-1970 02:16:38] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[04-Jan-1970 02:16:38] NOTICE: fpm is running, pid 3804
+[04-Jan-1970 02:16:38] NOTICE: ready to handle connections
+[04-Jan-1970 03:48:20] NOTICE: Finishing ...
+[04-Jan-1970 03:48:20] NOTICE: exiting, bye-bye!
+[04-Jan-1970 03:48:20] NOTICE: fpm is running, pid 6223
+[04-Jan-1970 03:48:20] NOTICE: ready to handle connections
+[04-Jan-1970 04:11:31] NOTICE: Finishing ...
+[04-Jan-1970 04:11:31] NOTICE: exiting, bye-bye!
+[04-Jan-1970 04:11:31] NOTICE: fpm is running, pid 6823
+[04-Jan-1970 04:11:31] NOTICE: ready to handle connections
+[04-Jan-1970 04:20:07] NOTICE: Finishing ...
+[04-Jan-1970 04:20:07] NOTICE: exiting, bye-bye!
+[04-Jan-1970 04:21:12] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[04-Jan-1970 04:21:12] NOTICE: fpm is running, pid 3785
+[04-Jan-1970 04:21:12] NOTICE: ready to handle connections
+[04-Jan-1970 04:39:36] NOTICE: Finishing ...
+[04-Jan-1970 04:39:36] NOTICE: exiting, bye-bye!
+[04-Jan-1970 04:40:38] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[04-Jan-1970 04:40:39] NOTICE: fpm is running, pid 3792
+[04-Jan-1970 04:40:39] NOTICE: ready to handle connections
+[04-Jan-1970 04:47:50] NOTICE: Finishing ...
+[04-Jan-1970 04:47:50] NOTICE: exiting, bye-bye!
+[04-Jan-1970 04:48:50] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[04-Jan-1970 04:48:50] NOTICE: fpm is running, pid 3815
+[04-Jan-1970 04:48:50] NOTICE: ready to handle connections
+[04-Jan-1970 04:54:56] NOTICE: Finishing ...
+[04-Jan-1970 04:54:56] NOTICE: exiting, bye-bye!
+[04-Jan-1970 04:56:07] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[04-Jan-1970 04:56:07] NOTICE: fpm is running, pid 3790
+[04-Jan-1970 04:56:07] NOTICE: ready to handle connections
+[04-Jan-1970 04:58:05] NOTICE: Finishing ...
+[04-Jan-1970 04:58:05] NOTICE: exiting, bye-bye!
+[04-Jan-1970 04:59:34] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[04-Jan-1970 04:59:35] NOTICE: fpm is running, pid 3788
+[04-Jan-1970 04:59:35] NOTICE: ready to handle connections
+[04-Jan-1970 05:03:11] NOTICE: Finishing ...
+[04-Jan-1970 05:03:11] NOTICE: exiting, bye-bye!
+[04-Jan-1970 05:04:20] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[04-Jan-1970 05:04:21] NOTICE: fpm is running, pid 3825
+[04-Jan-1970 05:04:21] NOTICE: ready to handle connections
+[04-Jan-1970 05:07:05] NOTICE: Finishing ...
+[04-Jan-1970 05:07:05] NOTICE: exiting, bye-bye!
+[04-Jan-1970 05:08:05] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[04-Jan-1970 05:08:05] NOTICE: fpm is running, pid 3787
+[04-Jan-1970 05:08:05] NOTICE: ready to handle connections
+[04-Jan-1970 05:46:37] NOTICE: Finishing ...
+[04-Jan-1970 05:46:37] NOTICE: exiting, bye-bye!
+[04-Jan-1970 05:47:48] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[04-Jan-1970 05:47:48] NOTICE: fpm is running, pid 3805
+[04-Jan-1970 05:47:48] NOTICE: ready to handle connections
+[04-Jan-1970 05:49:42] NOTICE: Finishing ...
+[04-Jan-1970 05:49:42] NOTICE: exiting, bye-bye!
+[04-Jan-1970 05:50:56] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[04-Jan-1970 05:50:56] NOTICE: fpm is running, pid 3779
+[04-Jan-1970 05:50:56] NOTICE: ready to handle connections
+[04-Jan-1970 05:58:26] NOTICE: Finishing ...
+[04-Jan-1970 05:58:26] NOTICE: exiting, bye-bye!
+[04-Jan-1970 05:59:31] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[04-Jan-1970 05:59:31] NOTICE: fpm is running, pid 3780
+[04-Jan-1970 05:59:31] NOTICE: ready to handle connections
+[04-Jan-1970 06:07:14] NOTICE: Finishing ...
+[04-Jan-1970 06:07:14] NOTICE: exiting, bye-bye!
+[04-Jan-1970 06:08:57] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[04-Jan-1970 06:08:57] NOTICE: fpm is running, pid 3802
+[04-Jan-1970 06:08:57] NOTICE: ready to handle connections
+[04-Jan-1970 06:24:38] NOTICE: Finishing ...
+[04-Jan-1970 06:24:38] NOTICE: exiting, bye-bye!
+[04-Jan-1970 06:26:21] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[04-Jan-1970 06:26:21] NOTICE: fpm is running, pid 3787
+[04-Jan-1970 06:26:21] NOTICE: ready to handle connections
+[04-Jan-1970 06:31:06] NOTICE: Finishing ...
+[04-Jan-1970 06:31:06] NOTICE: exiting, bye-bye!
+[04-Jan-1970 06:36:07] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[04-Jan-1970 06:36:07] NOTICE: fpm is running, pid 3822
+[04-Jan-1970 06:36:07] NOTICE: ready to handle connections
+[04-Jan-1970 06:41:07] NOTICE: Finishing ...
+[04-Jan-1970 06:41:07] NOTICE: exiting, bye-bye!
+[04-Jan-1970 06:42:29] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[04-Jan-1970 06:42:30] NOTICE: fpm is running, pid 3853
+[04-Jan-1970 06:42:30] NOTICE: ready to handle connections
+[04-Jan-1970 06:46:20] NOTICE: Finishing ...
+[04-Jan-1970 06:46:20] NOTICE: exiting, bye-bye!
+[04-Jan-1970 06:47:39] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[04-Jan-1970 06:47:39] NOTICE: fpm is running, pid 3819
+[04-Jan-1970 06:47:39] NOTICE: ready to handle connections
+[04-Jan-1970 06:49:25] NOTICE: Finishing ...
+[04-Jan-1970 06:49:25] NOTICE: exiting, bye-bye!
+[04-Jan-1970 06:50:45] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[04-Jan-1970 06:50:45] NOTICE: fpm is running, pid 3791
+[04-Jan-1970 06:50:45] NOTICE: ready to handle connections
+[04-Jan-1970 06:52:40] NOTICE: Finishing ...
+[04-Jan-1970 06:52:40] NOTICE: exiting, bye-bye!
+[04-Jan-1970 06:54:06] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[04-Jan-1970 06:54:06] NOTICE: fpm is running, pid 3781
+[04-Jan-1970 06:54:06] NOTICE: ready to handle connections
+[04-Jan-1970 07:02:44] NOTICE: Finishing ...
+[04-Jan-1970 07:02:44] NOTICE: exiting, bye-bye!
+[04-Jan-1970 07:03:51] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[04-Jan-1970 07:03:51] NOTICE: fpm is running, pid 3889
+[04-Jan-1970 07:03:51] NOTICE: ready to handle connections
+[04-Jan-1970 07:11:48] NOTICE: Finishing ...
+[04-Jan-1970 07:11:48] NOTICE: exiting, bye-bye!
+[04-Jan-1970 07:13:15] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[04-Jan-1970 07:13:15] NOTICE: fpm is running, pid 3791
+[04-Jan-1970 07:13:15] NOTICE: ready to handle connections
+[04-Jan-1970 07:27:50] NOTICE: Finishing ...
+[04-Jan-1970 07:27:50] NOTICE: exiting, bye-bye!
+[04-Jan-1970 07:30:38] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[04-Jan-1970 07:30:38] NOTICE: fpm is running, pid 3800
+[04-Jan-1970 07:30:38] NOTICE: ready to handle connections
+[04-Jan-1970 07:36:30] NOTICE: Finishing ...
+[04-Jan-1970 07:36:30] NOTICE: exiting, bye-bye!
+[04-Jan-1970 07:38:17] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[04-Jan-1970 07:38:17] NOTICE: fpm is running, pid 3810
+[04-Jan-1970 07:38:17] NOTICE: ready to handle connections
+[04-Jan-1970 07:56:55] NOTICE: Finishing ...
+[04-Jan-1970 07:56:55] NOTICE: exiting, bye-bye!
+[04-Jan-1970 07:59:15] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[04-Jan-1970 07:59:16] NOTICE: fpm is running, pid 3863
+[04-Jan-1970 07:59:16] NOTICE: ready to handle connections
+[04-Jan-1970 08:01:14] NOTICE: Finishing ...
+[04-Jan-1970 08:01:14] NOTICE: exiting, bye-bye!
+[04-Jan-1970 08:03:19] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[04-Jan-1970 08:03:19] NOTICE: fpm is running, pid 3838
+[04-Jan-1970 08:03:19] NOTICE: ready to handle connections
+[04-Jan-1970 08:14:12] NOTICE: Finishing ...
+[04-Jan-1970 08:14:12] NOTICE: exiting, bye-bye!
+[04-Jan-1970 08:15:26] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[04-Jan-1970 08:15:26] NOTICE: fpm is running, pid 3884
+[04-Jan-1970 08:15:26] NOTICE: ready to handle connections
+[04-Jan-1970 08:22:55] NOTICE: Finishing ...
+[04-Jan-1970 08:22:55] NOTICE: exiting, bye-bye!
+[04-Jan-1970 08:27:13] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[04-Jan-1970 08:27:13] NOTICE: fpm is running, pid 3878
+[04-Jan-1970 08:27:13] NOTICE: ready to handle connections
+[04-Jan-1970 23:24:02] NOTICE: Finishing ...
+[04-Jan-1970 23:24:02] NOTICE: exiting, bye-bye!
+[04-Jan-1970 23:26:49] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[04-Jan-1970 23:26:49] NOTICE: fpm is running, pid 3925
+[04-Jan-1970 23:26:49] NOTICE: ready to handle connections
+[04-Jan-1970 23:30:52] NOTICE: Finishing ...
+[04-Jan-1970 23:30:52] NOTICE: exiting, bye-bye!
+[04-Jan-1970 23:34:00] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[04-Jan-1970 23:34:00] NOTICE: fpm is running, pid 3924
+[04-Jan-1970 23:34:00] NOTICE: ready to handle connections
+[04-Jan-1970 23:36:55] NOTICE: Finishing ...
+[04-Jan-1970 23:36:55] NOTICE: exiting, bye-bye!
+[04-Jan-1970 23:38:01] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[04-Jan-1970 23:38:01] ERROR: unable to bind listening socket for address '127.0.0.1:9001': Cannot assign requested address (99)
+[04-Jan-1970 23:38:01] ERROR: FPM initialization failed
+[04-Jan-1970 23:41:28] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[04-Jan-1970 23:41:29] ERROR: unable to bind listening socket for address '127.0.0.1:9001': Cannot assign requested address (99)
+[04-Jan-1970 23:41:29] ERROR: FPM initialization failed
+[04-Jan-1970 23:45:00] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[04-Jan-1970 23:45:00] ERROR: unable to bind listening socket for address '127.0.0.1:9001': Cannot assign requested address (99)
+[04-Jan-1970 23:45:00] ERROR: FPM initialization failed
+[04-Jan-1970 23:49:56] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[04-Jan-1970 23:49:56] ERROR: unable to bind listening socket for address '127.0.0.1:9001': Cannot assign requested address (99)
+[04-Jan-1970 23:49:56] ERROR: FPM initialization failed
+[04-Jan-1970 23:54:46] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[04-Jan-1970 23:54:46] ERROR: unable to bind listening socket for address '127.0.0.1:9001': Cannot assign requested address (99)
+[04-Jan-1970 23:54:46] ERROR: FPM initialization failed
+[04-Jan-1970 23:58:17] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[04-Jan-1970 23:58:17] NOTICE: fpm is running, pid 3817
+[04-Jan-1970 23:58:17] NOTICE: ready to handle connections
+[05-Jan-1970 00:12:42] NOTICE: Finishing ...
+[05-Jan-1970 00:12:42] NOTICE: exiting, bye-bye!
+[05-Jan-1970 00:13:43] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[05-Jan-1970 00:13:43] NOTICE: fpm is running, pid 3837
+[05-Jan-1970 00:13:43] NOTICE: ready to handle connections
+[05-Jan-1970 00:19:16] NOTICE: Finishing ...
+[05-Jan-1970 00:19:16] NOTICE: exiting, bye-bye!
+[05-Jan-1970 00:21:31] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[05-Jan-1970 00:21:31] NOTICE: fpm is running, pid 3900
+[05-Jan-1970 00:21:31] NOTICE: ready to handle connections
+[05-Jan-1970 00:43:35] NOTICE: Finishing ...
+[05-Jan-1970 00:43:35] NOTICE: exiting, bye-bye!
+[05-Jan-1970 00:43:35] NOTICE: fpm is running, pid 5756
+[05-Jan-1970 00:43:35] NOTICE: ready to handle connections
+[05-Jan-1970 00:44:20] NOTICE: Finishing ...
+[05-Jan-1970 00:44:20] NOTICE: exiting, bye-bye!
+[05-Jan-1970 00:46:25] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[05-Jan-1970 00:46:25] NOTICE: fpm is running, pid 3920
+[05-Jan-1970 00:46:25] NOTICE: ready to handle connections
+[05-Jan-1970 00:51:03] NOTICE: Finishing ...
+[05-Jan-1970 00:51:03] NOTICE: exiting, bye-bye!
+[05-Jan-1970 00:51:04] NOTICE: fpm is running, pid 4888
+[05-Jan-1970 00:51:04] NOTICE: ready to handle connections
+[05-Jan-1970 00:51:04] NOTICE: Finishing ...
+[05-Jan-1970 00:51:04] NOTICE: exiting, bye-bye!
+[05-Jan-1970 00:53:30] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[05-Jan-1970 00:53:30] NOTICE: fpm is running, pid 3893
+[05-Jan-1970 00:53:30] NOTICE: ready to handle connections
+[05-Jan-1970 00:56:53] NOTICE: Finishing ...
+[05-Jan-1970 00:56:53] NOTICE: exiting, bye-bye!
+[05-Jan-1970 00:59:05] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[05-Jan-1970 00:59:05] NOTICE: fpm is running, pid 3898
+[05-Jan-1970 00:59:05] NOTICE: ready to handle connections
+[05-Jan-1970 01:03:02] NOTICE: Finishing ...
+[05-Jan-1970 01:03:02] NOTICE: exiting, bye-bye!
+[05-Jan-1970 01:05:07] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[05-Jan-1970 01:05:07] NOTICE: fpm is running, pid 3884
+[05-Jan-1970 01:05:07] NOTICE: ready to handle connections
+[05-Jan-1970 01:08:43] NOTICE: Finishing ...
+[05-Jan-1970 01:08:43] NOTICE: exiting, bye-bye!
+[05-Jan-1970 01:10:42] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[05-Jan-1970 01:10:43] NOTICE: fpm is running, pid 3883
+[05-Jan-1970 01:10:43] NOTICE: ready to handle connections
+[05-Jan-1970 01:14:18] NOTICE: Finishing ...
+[05-Jan-1970 01:14:18] NOTICE: exiting, bye-bye!
+[05-Jan-1970 01:15:41] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[05-Jan-1970 01:15:41] NOTICE: fpm is running, pid 3591
+[05-Jan-1970 01:15:41] NOTICE: ready to handle connections
+[05-Jan-1970 01:21:41] NOTICE: Finishing ...
+[05-Jan-1970 01:21:41] NOTICE: exiting, bye-bye!
+[05-Jan-1970 01:23:52] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[05-Jan-1970 01:23:53] NOTICE: fpm is running, pid 3770
+[05-Jan-1970 01:23:53] NOTICE: ready to handle connections
+[05-Jan-1970 01:32:49] NOTICE: Finishing ...
+[05-Jan-1970 01:32:49] NOTICE: exiting, bye-bye!
+[05-Jan-1970 01:34:49] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[05-Jan-1970 01:34:49] NOTICE: fpm is running, pid 3892
+[05-Jan-1970 01:34:49] NOTICE: ready to handle connections
+[05-Jan-1970 01:40:42] NOTICE: Finishing ...
+[05-Jan-1970 01:40:42] NOTICE: exiting, bye-bye!
+[05-Jan-1970 01:42:48] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[05-Jan-1970 01:42:48] NOTICE: fpm is running, pid 3908
+[05-Jan-1970 01:42:48] NOTICE: ready to handle connections
+[05-Jan-1970 01:54:19] NOTICE: Finishing ...
+[05-Jan-1970 01:54:19] NOTICE: exiting, bye-bye!
+[05-Jan-1970 01:56:17] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[05-Jan-1970 01:56:17] NOTICE: fpm is running, pid 3989
+[05-Jan-1970 01:56:17] NOTICE: ready to handle connections
+[05-Jan-1970 01:57:57] NOTICE: Finishing ...
+[05-Jan-1970 01:57:57] NOTICE: exiting, bye-bye!
+[01-Jan-1970 00:01:16] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[01-Jan-1970 00:01:16] NOTICE: fpm is running, pid 3440
+[01-Jan-1970 00:01:16] NOTICE: ready to handle connections
+[01-Jan-1970 00:01:25] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[01-Jan-1970 00:01:25] NOTICE: fpm is running, pid 3911
+[01-Jan-1970 00:01:25] NOTICE: ready to handle connections
+[01-Jan-1970 00:03:27] NOTICE: Finishing ...
+[01-Jan-1970 00:03:27] NOTICE: exiting, bye-bye!
+[01-Jan-1970 00:06:06] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[01-Jan-1970 00:06:06] NOTICE: fpm is running, pid 3880
+[01-Jan-1970 00:06:06] NOTICE: ready to handle connections
+[01-Jan-1970 00:00:24] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[01-Jan-1970 00:00:24] NOTICE: fpm is running, pid 3440
+[01-Jan-1970 00:00:24] NOTICE: ready to handle connections
+[01-Jan-1970 00:01:54] NOTICE: Finishing ...
+[01-Jan-1970 00:01:54] NOTICE: exiting, bye-bye!
+[01-Jan-1970 00:04:38] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[01-Jan-1970 00:04:38] NOTICE: fpm is running, pid 3207
+[01-Jan-1970 00:04:38] NOTICE: ready to handle connections
+[01-Jan-1970 00:08:29] NOTICE: Finishing ...
+[01-Jan-1970 00:08:29] NOTICE: exiting, bye-bye!
+[01-Jan-1970 00:12:51] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[01-Jan-1970 00:12:51] NOTICE: fpm is running, pid 3807
+[01-Jan-1970 00:12:51] NOTICE: ready to handle connections
+[01-Jan-1970 00:17:08] NOTICE: Finishing ...
+[01-Jan-1970 00:17:08] NOTICE: exiting, bye-bye!
+[01-Jan-1970 00:23:07] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[01-Jan-1970 00:23:07] NOTICE: fpm is running, pid 3780
+[01-Jan-1970 00:23:07] NOTICE: ready to handle connections
+[01-Jan-1970 00:00:26] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[01-Jan-1970 00:00:26] NOTICE: fpm is running, pid 3787
+[01-Jan-1970 00:00:26] NOTICE: ready to handle connections
+[08-Feb-2014 15:06:35] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[08-Feb-2014 15:06:35] NOTICE: fpm is running, pid 3991
+[08-Feb-2014 15:06:35] NOTICE: ready to handle connections
+[08-Feb-2014 15:11:33] NOTICE: Finishing ...
+[08-Feb-2014 15:11:33] NOTICE: exiting, bye-bye!
+[08-Feb-2014 15:12:04] NOTICE: configuration file /etc/php5/fpm/php-fpm.conf test is successful
+
+[08-Feb-2014 15:12:05] NOTICE: fpm is running, pid 3990
+[08-Feb-2014 15:12:05] NOTICE: ready to handle connections
+[08-Feb-2014 15:17:29] NOTICE: Finishing ...
+[08-Feb-2014 15:17:29] NOTICE: exiting, bye-bye!

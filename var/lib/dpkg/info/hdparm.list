@@ -1,0 +1,9 @@
+/etc
+/etc/default
+/etc/default/hdparm
+/etc/init.d
+/etc/init.d/hdparm
+/etc/hdparm.conf
+/etc/apm
+/etc/apm/event.d
+/etc/apm/event.d/20hdparm

@@ -1,0 +1,2 @@
+1385949700.699 type=SEAT_ADDED : seat-id='Seat1' seat-kind=0
+1385949700.781 type=SEAT_SESSION_ADDED : seat-id='Seat1' session-id='Session1' session-type='' session-x11-display='' session-x11-display-device='' session-display-device='/dev/ttyS0' session-remote-host-name='' session-is-local=TRUE session-unix-user=0 session-creation-time='2013-12-02T02:01:40.757083Z'

@@ -1,0 +1,15 @@
+86bc2adc2997c11cf28b6149733e3c95  lib/systemd/system/mpd.service
+3d283c85ca48daa9a3a39158ea9a7373  usr/bin/mpd
+7591e43240fad5841f9cd900dd7350a6  usr/lib/tmpfiles.d/mpd.conf
+13e1fbb58bbb70df001c864734503912  usr/share/doc-base/mpd
+aa3b73f45a5bf80f7ab2fcfb500e99db  usr/share/doc/mpd/AUTHORS
+2b8058deb8f574b95c597fabe2947074  usr/share/doc/mpd/NEWS.Debian.gz
+b7c0c6a42d417d9a918844882b063724  usr/share/doc/mpd/README.Debian
+8d05aa7e161489a58baf21b2db05bdc9  usr/share/doc/mpd/changelog.Debian.gz
+c52fa995a01b3bd07cb07570353df6d7  usr/share/doc/mpd/changelog.gz
+a169b363de3debf7f90af414d3311318  usr/share/doc/mpd/copyright
+5d74013d2474b5931dbc7f6b5aafb7d6  usr/share/doc/mpd/examples/mpd.desktop
+a3e4c3936c008153f690d0c3287fdb6e  usr/share/doc/mpd/examples/mpdconf.example.gz
+32a9f3eb5a0f5e9a52ab8ea2869f04bd  usr/share/doc/mpd/user-manual.html
+156803eb13a5ab03d5447122d5e4dd7a  usr/share/man/man1/mpd.1.gz
+4c53cb6f93ab8d7fbeaee551071f2dbd  usr/share/man/man5/mpd.conf.5.gz

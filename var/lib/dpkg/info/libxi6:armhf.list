@@ -1,0 +1,11 @@
+/.
+/usr
+/usr/share
+/usr/share/doc/libxi6
+/usr/share/doc/libxi6/changelog.Debian.gz
+/usr/share/doc/libxi6/changelog.gz
+/usr/share/doc/libxi6/copyright
+/usr/lib
+/usr/lib/arm-linux-gnueabihf
+/usr/lib/arm-linux-gnueabihf/libXi.so.6.1.0
+/usr/lib/arm-linux-gnueabihf/libXi.so.6

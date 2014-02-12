@@ -1,0 +1,8 @@
+update-alternatives 2013-08-28 10:51:01: run with --install /usr/bin/php php /usr/bin/php5 50 --slave /usr/share/man/man1/php.1.gz php.1.gz /usr/share/man/man1/php5.1.gz
+update-alternatives 2013-08-28 10:51:01: link group php updated to point to /usr/bin/php5
+update-alternatives 2013-12-02 01:23:34: run with --install /usr/bin/smbstatus smbstatus /usr/bin/smbstatus.samba3 10 --slave /usr/share/man/man1/smbstatus.1.gz smbstatus.1.gz /usr/share/man/man1/smbstatus.samba3.1.gz
+update-alternatives 2013-12-02 01:23:34: link group smbstatus updated to point to /usr/bin/smbstatus.samba3
+update-alternatives 2013-12-02 01:23:57: run with --install /usr/bin/mailx mailx /usr/bin/heirloom-mailx 60 --slave /usr/bin/mail mail /usr/bin/heirloom-mailx --slave /usr/bin/Mail Mail /usr/bin/heirloom-mailx --slave /usr/share/man/man1/mailx.1.gz mailx.1.gz /usr/share/man/man1/heirloom-mailx.1.gz --slave /usr/share/man/man1/mail.1.gz mail.1.gz /usr/share/man/man1/heirloom-mailx.1.gz --slave /usr/share/man/man1/Mail.1.gz Mail.1.gz /usr/share/man/man1/heirloom-mailx.1.gz
+update-alternatives 2013-12-02 01:23:57: link group mailx updated to point to /usr/bin/heirloom-mailx
+update-alternatives 2013-12-02 01:23:57: run with --install /usr/bin/tdbbackup tdbbackup /usr/bin/tdbbackup.tdbtools 10 --slave /usr/share/man/man8/tdbbackup.8.gz tdbbackup.8.gz /usr/share/man/man8/tdbbackup.tdbtools.8.gz
+update-alternatives 2013-12-02 01:23:57: link group tdbbackup updated to point to /usr/bin/tdbbackup.tdbtools

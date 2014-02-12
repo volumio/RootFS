@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?> <!-- -*- SGML -*- -->
+
+<!-- 
+  Some examples how to use hal fdi files for system preferences 
+  You can either uncomment the examples here or put them in a seperate .fdi
+  file.
+-->
+<deviceinfo version="0.2">
+<!-- 
+  The following shows how to hint gnome-volume-manager and other programs 
+  that honor the storage.automount_enabled_hint to not mount non-removable
+  media.
+-->
+<!--
+  <device>
+    <match key="storage.hotpluggable" bool="false">
+      <match key="storage.removable" bool="false">
+        <merge key="storage.automount_enabled_hint" type="bool">false</merge>
+      </match>
+    </match>
+  </device>
+-->
+</deviceinfo>
+

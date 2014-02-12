@@ -1,0 +1,11 @@
+usb1	-fstype=auto,sync       :/dev/sda1
+usb2	-fstype=auto,sync       :/dev/sdb1
+usb3	-fstype=auto,sync       :/dev/sdc1
+usb4	-fstype=auto,sync       :/dev/sdd1
+usb5	-fstype=auto,sync       :/dev/sde1
+usb6    -fstype=auto,sync       :/dev/sda2
+usb7    -fstype=auto,sync       :/dev/sdb2
+usb8    -fstype=auto,sync       :/dev/sdc2
+usb9    -fstype=auto,sync       :/dev/sdd2
+usb10    -fstype=auto,sync       :/dev/sde2
+

@@ -1,0 +1,7 @@
+2be5be232379d759adad79d49f476a0f  usr/bin/fw_printenv
+d9aea9b12e021a2976ecc67e9c6630d6  usr/bin/mkimage
+ae63d3fd8102b20b286f543f11c17db4  usr/share/man/man1/mkimage.1.gz
+1834cd7e808be33c6625dc15072084b7  usr/share/man/man8/fw_setenv.8.gz
+189116ed0010257b8d8543539f91504a  usr/share/man/man8/fw_printenv.8.gz
+eb1cfbf86b6ea8c639ce213207cb970c  usr/share/doc/u-boot-tools/changelog.Debian.gz
+48d6586f575086350fcaaa1dafdb8429  usr/share/doc/u-boot-tools/copyright

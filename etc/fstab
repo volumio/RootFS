@@ -1,0 +1,3 @@
+#Ramdsisk can be increased to 1500mb size on Cubox-i4 and Compulab Utilite Pro
+Ramdisk   /run/shm        tmpfs   defaults,size=512M,noexec,nodev,nosuid        0       0
+

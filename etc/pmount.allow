@@ -1,0 +1,8 @@
+# /etc/pmount.allow
+# pmount will allow users to additionally mount all devices that are
+# listed here.
+/dev/sda1
+/dev/sdb*
+/dev/sdc*
+/media/thumbdrive
+/media/

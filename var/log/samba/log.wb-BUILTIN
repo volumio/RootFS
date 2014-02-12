@@ -1,0 +1,6 @@
+[2013/12/02 01:26:09.864394,  0] winbindd/winbindd.c:212(winbindd_sig_term_handler)
+  Got sig[15] terminate (is_parent=0)
+[2013/12/02 01:36:47.383162,  0] winbindd/winbindd.c:212(winbindd_sig_term_handler)
+  Got sig[15] terminate (is_parent=0)
+[2013/12/02 01:42:14.115966,  0] winbindd/winbindd.c:212(winbindd_sig_term_handler)
+  Got sig[15] terminate (is_parent=0)
